@@ -1,13 +1,13 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '126'
 ht-degree: 2%
 
 ---
 
 
-# [!DNL Analytics] och [!DNL Target] integration
+# Integrering av [!DNL Analytics] och [!DNL Target]
 
 {{analytics-description}}
 
@@ -15,10 +15,10 @@ ht-degree: 2%
 
 De viktigaste fördelarna med att integrera Adobe [!DNL Analytics] och Adobe [!DNL Target] (A4T) är:
 
-+ **Datadriven personalisering**: Använd [!DNL Analytics] för riktade aktiviteter i Adobe [!DNL Target], förbättra personaliseringsstrategier.
-+ **Enhetlig rapportering**: A4T-integration kombinerar [!DNL Target] och [!DNL Analytics] rapporter för en omfattande analys.
-+ **Optimerad målinriktning**: Basera beslut på [!DNL Analytics] data för exakt målgruppssegmentering och innehållsoptimering.
-+ **Delade målgrupper**: Använd [!DNL Analytics] skapa detaljerade segment och dela dem med [!DNL Target] som kan användas som målgrupper för testning.
++ **Datadriven personalisering**: Använd [!DNL Analytics] för målinriktade aktiviteter i Adobe [!DNL Target] och förbättra personaliseringsstrategier.
++ **Enhetliga rapporter**: A4T-integrering kombinerar [!DNL Target]- och [!DNL Analytics]-rapporter för omfattande analys.
++ **Optimerad målinriktning**: Basera beslut på [!DNL Analytics]-data för exakt målgruppssegmentering och innehållsoptimering.
++ **Delade målgrupper**: Använd [!DNL Analytics] för att skapa detaljerade segment och dela dem med [!DNL Target] för att använda dem som målgrupper för testning.
 
 <table>
     <thead>
@@ -31,7 +31,7 @@ De viktigaste fördelarna med att integrera Adobe [!DNL Analytics] och Adobe [!D
     </thead>
     <tbody>
         <tr>
-            <td rowspan="2">[!DNL Analytics]  och  [!DNL Target]</td>
+            <td rowspan="2">[!DNL Analytics] och [!DNL Target]</td>
             <td>
                 <ul style="margin-top: 0;">
                     <li><a href="../../integrations/tutorials/analytics-target/analytics-target.md" target="_blank" rel="noreferrer">at.js-bibliotek för [!DNL Target] och appmeasurement.js-bibliotek för [!DNL Analytics]</a></li>
@@ -39,7 +39,7 @@ De viktigaste fördelarna med att integrera Adobe [!DNL Analytics] och Adobe [!D
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Du vill använda Adobe [!DNL Analytics] omfattande rapporteringsfunktioner för att visa och analysera [!DNL Target] aktivitetsresultat.</li>
+                    <li>Du vill använda omfattande rapporteringsfunktioner för Adobe [!DNL Analytics] för att visa och analysera aktivitetsresultaten för [!DNL Target].</li>
                 </ul>
             </td>
             <td>

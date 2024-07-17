@@ -1,7 +1,7 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '206'
 ht-degree: 1%
 
 ---
@@ -15,10 +15,10 @@ ht-degree: 1%
 
 AEM och Workfront effektiviserar innehållsproduktionen och möjliggör smidig import av hanterat innehåll från Workfront till AEM för effektiv organisation och åtkomst, vilket garanterar snabb och högkvalitativ leverans av digitalt material. Några viktiga fördelar:
 
-+ **Effektiv produktion av material**: AEM och Adobe Workfront-integrering optimerar hela processen för att skapa innehåll.
++ **Effektiv innehållsproduktion**: AEM och Adobe Workfront-integrering optimerar processen för att skapa innehåll från början till slut.
 + **Förbättrat samarbete**: Team kan samarbeta smidigt i innehållsprojekt, vilket förbättrar kommunikationen och effektiviteten.
-+ **Förbättrad resurshantering**: Workfront projektspårningsfunktioner möjliggör bättre resurstilldelning och utnyttjande.
-+ **Effektiva godkännanden och granskningar**: AEM och integrering med Workfront effektiviserar arbetsflödena för granskning och godkännande av innehåll.
++ **Förbättrad resurshantering**: Workfront projektspårningsfunktioner möjliggör bättre resursallokering och resursutnyttjande.
++ **Effektiva godkännanden och granskningar**: Integreringen med AEM och Workfront effektiviserar arbetsflödena för granskning och godkännande av innehåll.
 + **Snabbare time-to-market**: Den kombinerade lösningen snabbar upp innehållsleveransen och minskar time-to-market för kampanjer och resurser.
 
 ## Vanliga integreringar

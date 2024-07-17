@@ -1,7 +1,7 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '109'
 ht-degree: 2%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 2%
 
 De viktigaste fördelarna med att integrera Adobe Workfront och Adobe Creative Cloud är:
 
-+ **Kreativt arbetsflöde**: Integreringen effektiviserar uppgifter, feedback och tidsloggning i Creative Cloud-appar.
++ **Kreativt arbetsflöde**: Integreringen effektiviserar uppgifter, feedback och tidsloggning i Creative Cloud-program.
 + **Effektivt samarbete**: Workfront underlättar granskning, godkännande och samarbete.
-+ **Förbättrad produktivitet**: Sömlös miljö ger snabbare och högre kvalitet.
++ **Förbättrad produktivitet**: En sömlös miljöinställning leder till snabbare och bättre kvalitet när du skapar innehåll.
 
 ## Vanliga integreringar
 

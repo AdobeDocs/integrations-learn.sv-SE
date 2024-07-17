@@ -5,15 +5,15 @@ user-guide-description: Lär dig om integreringar.
 mini-toc-levels: 1
 source-git-commit: b11b179bfc87a44387cf4d331386e729f0ce8b71
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 25%
+source-wordcount: '91'
+ht-degree: 17%
 
 ---
 
 
 # [!DNL Experience Cloud] självstudiekurser om integrering {#experience-cloud}
 
-+ [[!DNL Experience Cloud] Integreringar](./overview.md)
++ [[!DNL Experience Cloud] integreringar](./overview.md)
 + Lösningskategorier{#solution-categories}
    + [Översikt](./solution-categories/overview.md)
    + [B2B-marknadsföring](./solution-categories/b2b.md)
@@ -22,8 +22,8 @@ ht-degree: 25%
    + [Innehållsförsörjningskedja](./solution-categories/content-supply-chain.md)
    + [Kundresor](./solution-categories/customer-journeys.md)
    + [Datainsikter och aktivering](./solution-categories/data-insights.md)
-   + [Anpassning i stor skala](./solution-categories/personalization.md)
-+ Produktintegreringar{#integrations-between-applications}
+   + [Personalization i stor skala](./solution-categories/personalization.md)
++ Produktintegrationer{#integrations-between-applications}
    + [Översikt](./integrations-between-applications/overview.md)
    + [!DNL Acrobat Sign]{#acrobat-sign}
       + [[!DNL Experience Manager]](./integrations-between-applications/acrobat-sign/acrobat-sign-experience-manager.md)
@@ -80,9 +80,9 @@ ht-degree: 25%
    + Workfront{#experience-manager}
       + [[!DNL Creative Cloud]](./integrations-between-applications/workfront/workfront-creative-cloud.md)
       + [[!DNL Experience Manager]](./integrations-between-applications/workfront/workfront-experience-manager.md)
-+ Självstudiekurs{#tutorials}
++ Självstudie{#tutorials}
    + [!DNL Analytics] och [!DNL Commerce]{#analytics-commerce}
-      + [[!DNL Analytics] och  [!DNL Commerce]](./tutorials/analytics-commerce/analytics-commerce.md)
+      + [[!DNL Analytics] och [!DNL Commerce]](./tutorials/analytics-commerce/analytics-commerce.md)
    + [!DNL Analytics] och CJA{#analytics-cja}
       + [[!DNL Analytics] och CJA](./tutorials/analytics-cja/experience-platform-edge.md)
       + [[!DNL Analytics] och CJA](./tutorials/analytics-cja/experience-platform-source-connector.md)
@@ -90,9 +90,9 @@ ht-degree: 25%
       + [[!DNL Analytics] och Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-edge.md)
       + [[!DNL Analytics] och Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-source-connector.md)
    + [!DNL Analytics] och [!DNL Target]{#analytics-target}
-      + [[!DNL Analytics] och  [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
+      + [[!DNL Analytics] och [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
    + [!DNL Campaign] och [!DNL Analytics]{#campaign-analytics}
-      + [Integrera [!DNL Campaign] Standard med [!DNL Analytics] med hjälp av självstudiekursen Utlösare](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
+      + [Integrera [!DNL Campaign] Standard med [!DNL Analytics] med självstudiekursen Utlösare](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
    + [!DNL Campaign] och Experience Manager {#campaign-experience-manager}
       + [[!DNL Campaign] v8 och Experience Manager](./tutorials/campaign-aem/campaign-v8-with-experience-manager.md)
    + [!DNL Campaign] och Real-Time CDP{#campaign-real-time-cdp}

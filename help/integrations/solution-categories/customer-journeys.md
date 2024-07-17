@@ -37,7 +37,7 @@ Utveckla kundprofiler i realtid genom att hämta data från alla källor för at
 
 <tr>
   <td><strong>Samla in kunddata</strong><br></td>
- <td>Ursprunglig utökning [!DNL Campaign] funktioner för att samla in kunddata för målinriktning och personalisering av marknadsföringskampanjer.</td>
+ <td>Förbättra inbyggda [!DNL Campaign]-funktioner för att samla in kunddata för målinriktning och personalisering av marknadsföringskampanjer.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Skapa profiler och samla in ytterligare information. </li>
@@ -67,7 +67,7 @@ Utveckla kundprofiler i realtid genom att hämta data från alla källor för at
       <li>Avbruten varukorg</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/campaign/campaign-analytics.md">[!DNL Campaign]  och  [!DNL Analytics]</a></td>
+  <td><a href="../integrations-between-applications/campaign/campaign-analytics.md">[!DNL Campaign] och [!DNL Analytics]</a></td>
 </tr>
 
 <tr>
@@ -83,18 +83,18 @@ Utveckla kundprofiler i realtid genom att hämta data från alla källor för at
 
 <tr>
   <td><strong>Anpassa e-postleveranser</strong><br></td>
-  <td>Anpassa e-postleveranser med dynamiskt innehåll genom att utnyttja Adobe [!DNL Target].</td>
+  <td>Anpassa e-postleveranser med dynamiskt innehåll genom att utnyttja funktionerna i Adobe [!DNL Target].</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Lägg till personaliserade erbjudanden i kundens e-postmeddelanden</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/campaign/campaign-target.md">[!DNL Campaign]  och  [!DNL Target]</a></td>
+  <td><a href="../integrations-between-applications/campaign/campaign-target.md">[!DNL Campaign] och [!DNL Target]</a></td>
 </tr>
 
 <tr>
   <td><strong>Personalisera digitala upplevelser</strong><br></td>
-  <td>Använd kundprofiler i realtid och centralt hanterade [!DNL Platform] för att personalisera meddelanden över webben, mobiler och andra digitala kanaler.</td>
+  <td>Använd kundprofiler i realtid och centralt hanterade [!DNL Platform]-segment för att anpassa meddelanden över webben, mobiler och andra digitala kanaler.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Innehållspersonalisering för kända besökare</li>
@@ -108,7 +108,7 @@ Utveckla kundprofiler i realtid genom att hämta data från alla källor för at
 
 <tr>
   <td><strong>Förbättra leadgenerering</strong><br></td>
-  <td>Använd kundprofiler i realtid och centralt hanterade [!DNL Platform] för att personalisera meddelanden över webben, mobiler och andra digitala kanaler</td>
+  <td>Använd kundprofiler i realtid och centralt hanterade [!DNL Platform]-segment för att anpassa meddelanden över webben, mobiler och andra digitala kanaler</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Innehållspersonalisering för kända besökare</li>

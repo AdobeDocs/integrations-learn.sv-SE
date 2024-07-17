@@ -1,6 +1,6 @@
 ---
 title: Integrera [!DNL Campaign] med [!DNL Real-Time Customer Data Platform]
-description: Integrera [!DNL Campaign] med [!DNL Real-Time Customer Data Platform].
+description: Lär dig integrera [!DNL Campaign] med [!DNL Real-Time Customer Data Platform].
 solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations

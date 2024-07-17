@@ -1,6 +1,6 @@
 ---
 title: Integrera [!DNL Analytics] med [!DNL Real-Time Customer Data Platform]
-description: Integrera [!DNL Analytics] med kunddata i realtid [!DNL Platform].
+description: Lär dig hur du integrerar [!DNL Analytics] med kunddata i realtid [!DNL Platform].
 solution: Analytics, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations

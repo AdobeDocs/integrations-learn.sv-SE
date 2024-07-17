@@ -1,6 +1,6 @@
 ---
 title: Integrera kundresan [!DNL Analytics] med [!DNL Real-Time Customer Data Platform]
-description: Lär dig integrera kundresan [!DNL Analytics] med [!DNL Real-Time Customer Data Platform].
+description: Lär dig hur du integrerar kundresan [!DNL Analytics] med [!DNL Real-Time Customer Data Platform].
 solution: Customer Journey [!DNL Analytics], Real-Time Customer Data [!DNL Platform]
 feature: Integrations
 topic: Integrations

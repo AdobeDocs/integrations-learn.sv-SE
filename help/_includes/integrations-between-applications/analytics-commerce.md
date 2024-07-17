@@ -13,15 +13,15 @@ ht-degree: 2%
 
 {{analytics-description}}
 
-Viktiga fördelar med att integrera Adobe [!DNL Commerce] och Adobe [!DNL Analytics] inkludera:
+De viktigaste fördelarna med att integrera Adobe [!DNL Commerce] och Adobe [!DNL Analytics] är:
 
-+ **Omfattande kundinsikter**: Integreringen ger en enhetlig bild av kundinteraktioner, vilket ger företag djupare insikter i kundbeteende, preferenser och köpmönster.
-+ **Förbättrad marknadsattribuering**: Genom att kombinera data från Adobe [!DNL Commerce] och Adobe [!DNL Analytics]kan marknadsförarna bättre attribuera försäljning och konverteringar till specifika marknadsföringssatsningar, vilket ger exaktare mått och optimering av avkastningen.
-+ **Personaliserade kundupplevelser**: Integrering av båda plattformarna möjliggör personaliserade upplevelser baserade på kunddata, vilket leder till mer relevanta produktrekommendationer, målinriktade erbjudanden och förbättrad kundnöjdhet.
-+ **Effektiv optimering av e-handeln**: Företag kan använda analysdata för att identifiera möjligheter till optimering av webbplatser och användarupplevelser, vilket resulterar i ökad konvertering, minskad kundöverläggning och förbättrade e-handelsprestanda.
-+ **Datadrivet beslutsfattande**: Integrationen ger ett ökat utrymme för datadrivet beslutsfattande genom en heltäckande bild av kundresan, vilket gör det möjligt för företag att fatta välgrundade marknadsförings-, sälj- och produktbeslut baserat på verkliga insikter.
++ **Omfattande kundinsikter**: Integreringen ger en enhetlig vy över kundinteraktioner, vilket gör att företag kan få djupare insikter i kundbeteende, preferenser och köpmönster.
++ **Förbättrad marknadsattribuering**: Genom att kombinera data från Adobe [!DNL Commerce] och Adobe [!DNL Analytics] kan marknadsförare attribuera försäljning och konverteringar till specifika marknadsföringssatsningar på ett bättre sätt, vilket ger exaktare ROI-mätning och optimering.
++ **Personaliserade kundupplevelser**: Genom att integrera båda plattformarna kan ni skapa personaliserade upplevelser baserade på kunddata, vilket leder till mer relevanta produktrekommendationer, målinriktade erbjudanden och förbättrad kundnöjdhet.
++ **Effektiv optimering av e-handeln**: Företag kan använda analysdata för att identifiera möjligheter till optimering av webbplatser och användarupplevelser, vilket resulterar i ökad konvertering, minskad kundöverlämning och förbättrade e-handelsprestanda.
++ **Datadrivet beslutsfattande**: Integreringen ger datadrivet beslutsfattande kraft genom att ge en heltäckande bild av kundresor, så att företag kan fatta välgrundade marknadsförings-, sälj- och produktbeslut baserat på verkliga insikter.
 
-Överlag, integrering av Adobe [!DNL Commerce] och Adobe [!DNL Analytics] skapar ett kraftfullt e-handelssystem som kombinerar datadrivna insikter med personaliserade upplevelser, vilket leder till bättre kundengagemang, ökad försäljning och ökad affärstillväxt.
+Integreringen av Adobe [!DNL Commerce] och Adobe [!DNL Analytics] skapar generellt ett kraftfullt e-handelssystem som kombinerar datadrivna insikter med personaliserade upplevelser, vilket leder till bättre kundengagemang, ökad försäljning och ökad affärstillväxt.
 
 ## Vanliga integreringar
 
@@ -48,7 +48,7 @@ Viktiga fördelar med att integrera Adobe [!DNL Commerce] och Adobe [!DNL Analyt
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>När du vill få en fullständig bild av butikens totala prestanda. Mer specifikt, Adobe [!DNL Analytics] integration för [!DNL Commerce] Intelligens ger handlarna möjlighet att börja kombinera Adobe [!DNL Commerce] och Adobe [!DNL Analytics] datauppsättningar.</li>
+                    <li>När du vill få en fullständig bild av butikens totala prestanda. Mer specifikt ger integreringen av [!DNL Analytics] i Adobe för [!DNL Commerce] Intelligence handlare funktionalitet så att säljarna kan börja kombinera datauppsättningarna Adobe [!DNL Commerce] och Adobe [!DNL Analytics].</li>
                 </ul>
             </td>
             <td>

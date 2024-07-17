@@ -1,23 +1,23 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '105'
 ht-degree: 2%
 
 ---
 
 
-# [!DNL Campaign] och [!DNL Target] integration
+# Integrering av [!DNL Campaign] och [!DNL Target]
 
 {{campaign-description}}
 
 {{target-description}}
 
-Använd Adobe [!DNL Campaign] med Adobe [!DNL Target] för att personalisera och optimera ert e-postinnehåll. Några viktiga fördelar:
+Använd Adobe [!DNL Campaign] med Adobe [!DNL Target] för att anpassa och optimera ditt e-postinnehåll. Några viktiga fördelar:
 
-+ **Adobe [!DNL Campaign] data**: Förbättrad målinriktning i Adobe [!DNL Target] med Adobe [!DNL Campaign] data mart.
++ **Adobe [!DNL Campaign] data**: Förbättra målgruppsanpassningen i Adobe [!DNL Target] med Adobe [!DNL Campaign] data mart.
 + **Målgruppssegmentering**: Länka segment till besökar-ID för optimerad målinriktning och personaliserade upplevelser.
-+ **[!DNL Target]förbättringar**: Få tillgång till värdefulla data (användaragent, IP-adress, geopositionering) för bättre målinriktning och kampanjer.
++ **[!DNL Target]ing enhancements**: Få tillgång till värdefulla data (användaragent, IP-adress, geopositionering) för förbättrad målinriktning och kampanjer.
 
 ## Vanliga integreringar
 

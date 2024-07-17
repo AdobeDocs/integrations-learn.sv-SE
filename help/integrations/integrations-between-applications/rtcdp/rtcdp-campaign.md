@@ -1,6 +1,6 @@
 ---
-title: Integrera Real-time Customer Data Platform med [!DNL Campaign]
-description: Lär dig integrera Real-time Customer Data Platform med [!DNL Campaign]
+title: Integrera Real-time Customer Data Platform med  [!DNL Campaign]
+description: Lär dig hur du integrerar Real-time Customer Data Platform med  [!DNL Campaign]
 solution: Real-Time Customer Data Platform, [!DNL Campaign]
 feature: Integrations
 topic: Integrations

@@ -1,6 +1,6 @@
 ---
 title: Integrera [!DNL Real-Time Customer Data Platform] med Audience Manager
-description: Lär dig integrera kunddata i realtid [!DNL Platform] med Audience Manager.
+description: Lär dig hur du integrerar kunddata i realtid  [!DNL Platform]  med Audience Manager.
 solution: Real-Time Customer Data Platform, Audience Manager
 feature: Integrations
 topic: Integrations

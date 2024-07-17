@@ -9,7 +9,7 @@ ht-degree: 1%
 
 ---
 
-# Anpassning i stor skala
+# Personalization i stor skala
 
 I dagens mycket konkurrenskraftiga och digitalt drivna landskap har kunderna kommit att förvänta sig upplevelser som är skräddarsydda efter deras unika önskemål och behov. Genom att utnyttja funktionerna i Adobe Experience Cloud kan vi samla in och analysera omfattande kunddata, vilket ger ovärderliga insikter om beteenden, intressen och preferenser. Denna djupa förståelse underlättar leveransen av personaliserade upplevelser över olika kontaktytor och säkerställer meningsfull och engagerande interaktion. Genom att utnyttja kraften i Adobe Experience Cloud kan du utnyttja personaliseringens fulla potential, skapa starkare kundrelationer, stärka lojaliteten och få verksamheten att växa.
 
@@ -26,12 +26,14 @@ I dagens mycket konkurrenskraftiga och digitalt drivna landskap har kunderna kom
     <tr>
       <td><strong>Skapa skräddarsydda PDF-dokument</strong></td>
       <td>
-        Generera kommunikationsdokument för signering baserat på användarens val/inställningar.
+        Generera kommunikationsdokument för signering baserat på användare
+        markeringar/inställningar.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Presentera ett dynamiskt genererat sekretessavtal baserat på data från en inlämning från AEM Forms för signering
+            Presentera ett dynamiskt genererat sekretessavtal baserat på data från en AEM
+            Forms-inlämning för signering
           </li>
         </ul>
       </td>
@@ -48,7 +50,7 @@ I dagens mycket konkurrenskraftiga och digitalt drivna landskap har kunderna kom
       <td rowspan="2"><strong>Dataanalys och rapportering</strong></td>
       <td>
         Analysera beteendedata från digitala upplevelser <br />Använd Adobe
-        [!DNL Analytics] beteendedata i Analysis Workspace på kundresan
+        [!DNL Analytics] Beteendedata i Analysis Workspace på kundresan
         [!DNL Analytics].
       </td>
       <td>
@@ -73,7 +75,9 @@ I dagens mycket konkurrenskraftiga och digitalt drivna landskap har kunderna kom
     </tr>
     <tr>
       <td>
-        Rapportering för personaliseringsaktiviteter<br />Analysera optimeringstestningsresultat, inklusive A/B-tester, genom att använda Adobe [!DNL Target] och generera omfattande rapporter via Adobe [!DNL Analytics].
+        Rapportering för personaliseringsaktiviteter<br />Analysera optimering
+        testresultat, inklusive A/B-tester, genom att använda Adobe [!DNL Target] och
+        generera omfattande rapporter via Adobe [!DNL Analytics] .
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -92,7 +96,8 @@ I dagens mycket konkurrenskraftiga och digitalt drivna landskap har kunderna kom
     <tr>
       <td><strong>Anpassa e-postleveranser</strong></td>
       <td>
-        Anpassa e-postleveranser med dynamiskt innehåll genom att utnyttja Adobe [!DNL Target].
+        Anpassa e-postleveranser med dynamiskt innehåll genom att använda
+        funktioner i Adobe [!DNL Target].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -113,18 +118,22 @@ I dagens mycket konkurrenskraftiga och digitalt drivna landskap har kunderna kom
         <strong>Utöka målgrupper för personaliserings- och annonsplattformar</strong>
       </td>
       <td>
-        Använd Audience Manager-segment för att skapa målgrupper i Real-Time CDP som kan användas i personaliserings- och marknadsföringsstrategier.
+        Använd Audience Manager-segment för att skapa målgrupper i Real-Time CDP för att
+        användning i personaliserings- och återmarknadsföringsstrategier.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Anonym målgruppsanpassning och personalisering på webbplatsen, mobilappen eller i de annonskanaler som stöds
+            Anonym målgruppsanpassning och personalisering på
+            webbplatsen, mobilappen eller de annonskanaler som stöds
           </li>
           <li>
-            Optimera landningssidan och förautentiserade upplevelser baserat på kända enhets- och beteendeegenskaper
+            Optimera landningssidan och förautentiseringsrutiner baserat på
+            kända enhets- och beteendeegenskaper
           </li>
           <li>
-            Utnyttja datanätverket från tredje part i Audience Manager för att ytterligare förfina och utöka era målgrupper för målinriktning
+            Utnyttja datanätverket från tredje part i Audience Manager för ytterligare
+            förfina och utöka era målgrupper för målinriktning
           </li>
           <li>Dela segment i Audience Manager till RTCDP</li>
         </ul>
@@ -140,15 +149,18 @@ I dagens mycket konkurrenskraftiga och digitalt drivna landskap har kunderna kom
     </tr>
     <tr>
       <td>
-        Använd [!DNL Analytics] data för att skapa målgrupper som kan användas i personaliserings- eller marknadsföringsstrategier.
+        Använd [!DNL Analytics]-data för att skapa målgrupper som ska användas i personalisering eller
+        återmarknadsföring.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Anpassa er digitala målgrupp och personalisering på enheter eller annonskanaler som stöds.
+            Målgruppsanpassning och personalisering på enheter eller
+            annonskanaler som stöds.
           </li>
           <li>
-            Optimera kända kundlandningssidor och anonyma upplevelser baserat på enhets- och beteendeattribut.
+            Optimera kända kundlandningssidor och anonyma upplevelser
+            baserat på enhets- och beteendeattribut.
           </li>
           <li>Aktivera målgrupper för kända kanaler, som e-post och SMS.</li>
         </ul>
@@ -165,7 +177,8 @@ I dagens mycket konkurrenskraftiga och digitalt drivna landskap har kunderna kom
     <tr>
       <td rowspan="2"><strong>Personalisera webbupplevelser</strong></td>
       <td>
-        Skräddarsy upplevelsen av single page-applikationer (SPA) genom att effektivt använda AEM Headless i kombination med Adobe [!DNL Target].
+        Skräddarsy upplevelsen av single page-applikationer (SPA) genom att effektivt
+        använder AEM Headless tillsammans med Adobe [!DNL Target].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -186,7 +199,8 @@ I dagens mycket konkurrenskraftiga och digitalt drivna landskap har kunderna kom
     </tr>
     <tr>
       <td>
-        Leverera skräddarsydda webbupplevelser genom att effektivt använda AEM Sites och Adobe [!DNL Target] för personalisering.
+        Leverera skräddarsydda webbupplevelser genom att effektivt använda AEM Sites
+        och Adobe [!DNL Target] för personalisering.
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -208,7 +222,8 @@ I dagens mycket konkurrenskraftiga och digitalt drivna landskap har kunderna kom
     <tr>
       <td><strong>Personalisera digitala upplevelser</strong></td>
       <td>
-        Använd kundprofiler i realtid och centralt hanterade [!DNL Platform] för att personalisera meddelanden över webben, mobiler och andra digitala kanaler
+        Använd kundprofiler i realtid och centralt hanterade [!DNL Platform] segment
+        för att personalisera meddelanden över webben, mobiler och andra digitala kanaler
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -230,7 +245,8 @@ I dagens mycket konkurrenskraftiga och digitalt drivna landskap har kunderna kom
     <tr>
       <td><strong>Förbättra leadgenerering</strong></td>
       <td>
-        Använd kundprofiler i realtid och centralt hanterade [!DNL Platform] för att personalisera meddelanden över webben, mobiler och andra digitala kanaler
+        Använd kundprofiler i realtid och centralt hanterade [!DNL Platform] segment
+        för att personalisera meddelanden över webben, mobiler och andra digitala kanaler
       </td>
       <td>
         <ul style="margin-top: 0;">

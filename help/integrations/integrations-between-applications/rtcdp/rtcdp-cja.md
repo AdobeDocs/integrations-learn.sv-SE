@@ -1,6 +1,6 @@
 ---
-title: Integrera Real-time Customer Data Platform med [!DNL Customer Journey Analytics]
-description: Integrera [!DNL Real-Time Customer Data  Platform] med [!DNL Customer Journey Analytics].
+title: Integrera Real-time Customer Data Platform med  [!DNL Customer Journey Analytics]
+description: Lär dig integrera [!DNL Real-Time Customer Data  Platform] med [!DNL Customer Journey Analytics].
 solution: Real-Time Customer Data [!DNL Platform], Customer Journey [!DNL Analytics]
 feature: Integrations
 topic: Integrations
@@ -18,6 +18,6 @@ ht-degree: 5%
 
 ---
 
-# Integrera kunddata i realtid [!DNL Platform] med kundresan [!DNL Analytics]
+# Integrera kunddata [!DNL Platform] i realtid med kundresan [!DNL Analytics]
 
 {{$include /help/_includes/integrations-between-applications/cja-rtcdp.md}}

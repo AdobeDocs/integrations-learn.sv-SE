@@ -7,15 +7,15 @@ ht-degree: 2%
 ---
 
 
-# Adobe kunddata i realtid [!DNL Platform] och Adobe [!DNL Target] integration
+# Integrering av kunddata [!DNL Platform] och Adobe [!DNL Target] i realtid i Adobe
 
 {{real-time-cdp-description}}
 
 {{target-description}}
 
-Integrera Real-Time CDP med [!DNL Target] ger er möjlighet att personalisera innehåll med hjälp av kända kunddata. Dessutom kan Real-Time CDP funktioner för datastyrning och samtycke hjälpa er att säkerställa att ni använder kända kunddata på ett ansvarsfullt sätt och att följa juridiska, avtalsmässiga och lagstadgade begränsningar samt att respektera kundens önskemål. Viktiga fördelar med att integrera Real-Time CDP och [!DNL Target] inkludera:
+Genom att integrera Real-Time CDP med [!DNL Target] kan du anpassa innehåll med hjälp av kända kunddata. Dessutom kan Real-Time CDP funktioner för datastyrning och samtycke hjälpa er att säkerställa att ni använder kända kunddata på ett ansvarsfullt sätt och att följa juridiska, avtalsmässiga och lagstadgade begränsningar samt att respektera kundens önskemål. De viktigaste fördelarna med att integrera Real-Time CDP och [!DNL Target] är:
 
-+ **Leverera personaliserade upplevelser** på er webbplats och i era mobilappar.
++ **Leverera personaliserade upplevelser** på din webbplats och i dina mobilappar.
 + **Dela segment och profilattribut** från Adobe Real-Time CDP till Adobe [!DNL Target].
 + **[!DNL Target]innehåll** till segment och visa attributvärden.
 
@@ -31,10 +31,10 @@ Integrera Real-Time CDP med [!DNL Target] ger er möjlighet att personalisera in
     <tbody>
     <tr>
         <td><a href="../../integrations/tutorials/rtcdp-target/web-sdk-and-target-destination.md" target="_blank" rel="noreferrer">Real-Time CDP och [!DNL Target]</a></td>
-        <td>Web SDK och [!DNL Target] mål</td>
+        <td>Webb-SDK och mål för [!DNL Target]</td>
         <td>
             <ul style="margin-top: 0;">
-                <li>När du vill ha den snabbaste datadelningen från Real-Time CDP [!DNL Target] för er webbplats.</li>
+                <li>När du vill ha den snabbaste datadelningen från Real-Time CDP till [!DNL Target] för webbplatsen.</li>
             </ul>
         </td>
         <td>

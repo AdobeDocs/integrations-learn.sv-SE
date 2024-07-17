@@ -1,6 +1,6 @@
 ---
 title: Integrera [!DNL Campaign] med [!DNL Target]
-description: Integrera [!DNL Campaign] med [!DNL Target].
+description: Lär dig integrera [!DNL Campaign] med [!DNL Target].
 solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Campaign Classic v7, Target
 feature: Integrations
 topic: Integrations

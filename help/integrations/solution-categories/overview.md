@@ -4,7 +4,7 @@ description: Läs mer om vanliga integrationskonfigurationer för Experience Clo
 exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
 source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '178'
 ht-degree: 9%
 
 ---
@@ -64,8 +64,8 @@ Tänk på att det finns många sätt att konfigurera programmen i Adobe, beroend
 </tr>
 <tr>
    <td>
-      <a  href="./personalization.md"><img alt="Anpassning i stor skala" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png"/></a>
-      <div><strong><a href="./personalization.md">Anpassning i stor skala</a></strong></div>
+      <a  href="./personalization.md"><img alt="Personalization i stor skala" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png"/></a>
+      <div><strong><a href="./personalization.md">Personalization som scale</a></strong></div>
       <p>
         Göra varje anslutning personlig
       </p>

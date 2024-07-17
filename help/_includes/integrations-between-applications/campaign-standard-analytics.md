@@ -1,23 +1,23 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 2%
+source-wordcount: '133'
+ht-degree: 3%
 
 ---
 
 
-# [!DNL Campaign] och [!DNL Analytics] integration
+# Integrering av [!DNL Campaign] och [!DNL Analytics]
 
 {{campaign-description}}
 
 {{analytics-description}}
 
-Adobe [!DNL Analytics] integrering med Adobe [!DNL Campaign] möjliggör smidig datadelning och e-postspårning:
+Integreringen av Adobe [!DNL Analytics] med Adobe [!DNL Campaign] möjliggör smidig datadelning och e-postspårning:
 
 + **Dela KPI-data** från Adobe [!DNL Campaign] till Adobe [!DNL Analytics].
-+ **Berika spårningsformler** med Adobe [!DNL Analytics] parametrar.
-+ Använd utlösare för att **skicka personliga e-postmeddelanden** baserat på specifika spårade beteenden.
++ **Förbättra spårningsformler** med Adobe [!DNL Analytics] -parametrar.
++ Använd utlösare för att **skicka personaliserade e-postmeddelanden** baserat på specifika spårade beteenden.
 
 ## Vanliga integreringar
 
@@ -33,16 +33,16 @@ Adobe [!DNL Analytics] integrering med Adobe [!DNL Campaign] möjliggör smidig 
      <tbody>
         <tr>
             <td rowspan="2">[!DNL Campaign] Standard med [!DNL Analytics]</td>
-            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html" target="_blank" rel="noreferrer">Extern [!DNL Campaign] konto kopplat till Adobe [!DNL Analytics] och administratörskonfiguration i [!DNL Analytics]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html" target="_blank" rel="noreferrer">Externt [!DNL Campaign]-konto länkat till Adobe [!DNL Analytics] och administratörskonfigurationen i [!DNL Analytics]</a></td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>När du vill spåra hur e-postleveranserna fungerar [!DNL Campaign] direkt i Adobe [!DNL Analytics].</li>
+                    <li>När du vill spåra om e-postleveranserna från [!DNL Campaign] har slutförts direkt i Adobe [!DNL Analytics].</li>
                 </ul>
             </td>
             <td>
               <ul style="margin-top: 0;">
-                <li>Förbättra era analysrapporter med [!DNL Campaign] leveransdata, inklusive skickade e-postmeddelanden, klickade e-postmeddelanden, öppnade e-postmeddelanden, levererade e-postmeddelanden, avbeställningar och studsar.</li>
-                <li>Analysera nedströmskonverteringshändelser för [!DNL Campaign] klicka för att få ut mer av era digitala resurser, t.ex. leads, onlineorder eller andra evenemang som tagits in i [!DNL Analytics].</li>
+                <li>Förbättra dina analysrapporter med [!DNL Campaign] leveransdata, inklusive skickade e-postmeddelanden, klickade e-postmeddelanden, öppnade e-postmeddelanden, levererade e-postmeddelanden, avbeställningar och studsar.</li>
+                <li>Analysera konverteringshändelser längre fram i kedjan för [!DNL Campaign] klick som driver trafik till dina digitala egenskaper, t.ex. formulärleads, onlineorder eller andra händelser som fångats in i [!DNL Analytics].</li>
               </ul>
             </td>
         </tr>

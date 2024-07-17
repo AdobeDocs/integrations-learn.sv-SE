@@ -1,8 +1,8 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 1%
+source-wordcount: '147'
+ht-degree: 2%
 
 ---
 
@@ -16,10 +16,10 @@ ht-degree: 1%
 Att integrera Adobe Audience Manager och Adobe Real-Time CDP ger följande fördelar:
 
 + **Omfattande kundinsikter** med kombinerade data från första part och tredje part, vilket ger en djupare förståelse för kundernas preferenser och beteenden.
-+ **Realtidspersonalisering** ger marknadsförarna möjlighet att leverera relevanta upplevelser, vilket ökar kundengagemanget och ger nöjdare kunder.
++ **Realtidspersonalisering** ger marknadsförarna möjlighet att leverera relevanta upplevelser, vilket förbättrar kundengagemanget och kundnöjdheten.
 + **Exakt målgruppssegmentering** optimerar marknadsföringen, vilket leder till effektivare kampanjer och förbättrad avkastning.
-+ **Sömlösa upplevelser över flera kanaler** säkerställa enhetlig meddelandehantering och ökad kundlojalitet.
-+ **Förbättrad datasekretess och regelefterlevnad** för att bygga upp förtroendet för kunderna och minska efterlevnadsriskerna.
++ **Sömlösa flerkanalsupplevelser** säkerställer enhetliga meddelanden och ökad kundlojalitet.
++ **Förbättrad datasekretess och efterlevnad** skapar förtroende hos kunderna och minskar kompatibilitetsriskerna.
 
 ## Vanliga integreringar
 

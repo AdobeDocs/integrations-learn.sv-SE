@@ -40,7 +40,7 @@ Bygg flerkanaliga e-handelsupplevelser på en enda plattform med vår flexibla, 
           <li>Implementera komplexa konfigurationer för flera butiker.</li>
           <li>Smidig innehållshantering över olika webbplatser.</li>
           <li>Effektiv global innehållskoordinering.</li>
-          <li>Stöd för flera miljöer i Adobe [!DNL Commerce].</li>
+          <li>Stöd för flera miljöer för Adobe [!DNL Commerce].</li>
           <li>Förenklad framtagning av e-handelsmaterial.</li>
           <li>Enhetlig och effektiv hantering av butiker.</li>
       </ul>
@@ -50,8 +50,8 @@ Bygg flerkanaliga e-handelsupplevelser på en enda plattform med vår flexibla, 
  <tr>
    <td><strong>Dataanalys och rapportering<strong></td>
    <td>Utvärdera konverteringstrattar, beställningar, intäkter och besöks- och besökarstatistik för e-butiker.</td>
-   <td><ul style="margin-top: 0;"><li>Data Insights and reporting on commerce activity.</li><li>Få omfattande insikter om Adobe [!DNL Commerce] lagra prestanda med nyckeltal och dimensioner som du väljer.</li></ul></td>
-   <td><a href="/help/integrations/integrations-between-applications/commerce/commerce-analytics.md">[!DNL Commerce]  och  [!DNL Analytics]</a></td>
+   <td><ul style="margin-top: 0;"><li>Data Insights and reporting on commerce activity.</li><li>Få omfattande insikter om prestanda för Adobe [!DNL Commerce]-butiken med hjälp av viktiga mätvärden och dimensioner som du väljer.</li></ul></td>
+   <td><a href="/help/integrations/integrations-between-applications/commerce/commerce-analytics.md">[!DNL Commerce] och [!DNL Analytics]</a></td>
  </tr>
  </tbody>
  </table>

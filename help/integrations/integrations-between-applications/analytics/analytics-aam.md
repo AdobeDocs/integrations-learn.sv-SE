@@ -1,6 +1,6 @@
 ---
 title: Integrera [!DNL Analytics] med Audience Manager
-description: Integrera [!DNL Analytics] med Audience Manager.
+description: Lär dig hur du integrerar [!DNL Analytics] med Audience Manager.
 solution: Analytics, Audience Manager
 feature: Integrations
 topic: Integrations
@@ -11,13 +11,13 @@ thumbnail: aam-analytics.png
 index: false
 badgeIntegration: label="Integrering" type="positive"
 last-substantial-update: 2023-04-14T00:00:00Z
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+exl-id: cc08fb38-89d0-447b-8d95-2c7120fe3bcd
+source-git-commit: d35dc06c56c117cffe70542b6713f275877e4879
 workflow-type: tm+mt
 source-wordcount: '16'
 ht-degree: 6%
 
 ---
-
 
 # Integrera [!DNL Analytics] med Audience Manager
 

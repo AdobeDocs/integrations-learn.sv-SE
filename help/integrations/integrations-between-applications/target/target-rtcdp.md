@@ -1,6 +1,6 @@
 ---
 title: Integrera Adobe [!DNL Target] med Adobe Real-time Customer Data Platform
-description: Lär dig integrera Adobe [!DNL Target] med Adobe Real-time Customer Data Platform.
+description: Lär dig hur du integrerar Adobe [!DNL Target] med Adobe Real-time Customer Data Platform.
 solution: Target, Real-Time Customer Data Platform
 feature-set: Experience [!DNL Platform], [!DNL Target]
 feature: Integrations, Audiences, Segments, Profiles

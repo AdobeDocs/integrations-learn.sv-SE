@@ -15,10 +15,10 @@ ht-degree: 2%
 
 Att integrera Acrobat Sign med Adobe Experience Manager (AEM) ger följande fördelar:
 
-+ **Effektivare dokumentflöden**: Automatisera dokumentsignering inom AEM Forms, snabba upp godkännandeprocessen och eliminera manuell hantering.
-+ **Förbättrad användarupplevelse**: Möjliggör elektroniska signaturer och minska antalet utskrifter och utskick för snabbare och effektivare processer.
-+ **Ökad precision och säkerhet**: Säkerställ dataintegriteten med mappade formulärfält, samtidigt som du följer branschens standarder och har stabila säkerhetsfunktioner.
-+ **Mobil- och fjärrhjälpmedel**: Signera dokument på vilken enhet som helst, med stöd för fjärrarbetare med responsiv design för olika skärmstorlekar.
++ **Effektivare dokumentarbetsflöden**: Automatisera dokumentsignering i AEM Forms, snabba upp godkännandena och eliminera manuell hantering.
++ **Förbättrad användarupplevelse**: Aktivera elektroniska signaturer, minska antalet utskrifter och utskick för snabbare och effektivare processer.
++ **Ökad precision och säkerhet**: Säkerställ dataintegriteten med mappade formulärfält, samtidigt som du följer branschens standarder och har robusta säkerhetsfunktioner.
++ **Mobilvänlig och fjärråtkomst**: Signera dokument på valfri enhet med stöd för fjärrarbetare med responsiv design för olika skärmstorlekar.
 
 ## Vanliga integreringar
 

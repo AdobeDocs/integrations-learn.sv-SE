@@ -5,7 +5,7 @@ exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
 source-wordcount: '286'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -84,7 +84,7 @@ För att uppfylla kundernas förväntningar i realtid för personaliserade upple
 </tr>
 <tr>
   <td><strong>Samla in kunddata</strong><br/></td>
-  <td>Ursprunglig utökning [!DNL Campaign] funktioner för att samla in kunddata för målinriktning och personalisering av marknadsföringskampanjer.
+  <td>Förbättra inbyggda [!DNL Campaign]-funktioner för att samla in kunddata för målinriktning och personalisering av marknadsföringskampanjer.
   </td>
   <td>
     <ul>

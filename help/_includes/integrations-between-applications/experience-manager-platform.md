@@ -1,21 +1,21 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 2%
+source-wordcount: '100'
+ht-degree: 3%
 
 ---
 
 
-# Experience Manager och Adobe Experience [!DNL Platform]
+# Upplevelsen [!DNL Platform] för Experience Manager och Adobe
 
 {{experience-manager-description}}
 
 {{experience-platform-description}}
 
-Integrera AEM och upplevelser [!DNL Platform] ger flera fördelar, bland annat:
+Integrering av AEM och Experience [!DNL Platform] ger flera fördelar, bland annat:
 
-+ **Intag av data**: Hämta in och sammanställ data från olika källor för en helhetsbild av kunden.
++ **Intag av data**: Infoga och sammanställ data från olika källor för en helhetsbild av kunden.
 + **Kundprofiler**: Skapa enhetliga profiler med beteendedata, transaktionsdata och demografiska data.
 + **Aktivering och integrering**: Integreras med Adobe-produkter för dataaktivering i realtid och insikter.
 
@@ -33,7 +33,7 @@ Integrera AEM och upplevelser [!DNL Platform] ger flera fördelar, bland annat:
     <tbody>
         <tr>
             <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/web-sdk.html" target="_blank" rel="noreferrer">Experience Manager och upplevelse [!DNL Platform]</a></td>
-            <td>Upplevelse [!DNL Platform] Web SDK</td>
+            <td>Upplev [!DNL Platform] Web SDK</td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>När du vill AEM kunna integrera med andra Adobe Experience Cloud-program.</li>

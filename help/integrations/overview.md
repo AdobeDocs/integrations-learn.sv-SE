@@ -1,13 +1,13 @@
 ---
 title: Programintegreringar
 description: Lär dig mer om vanliga konfigurationer för integrering av Experience Cloud-program. Upptäck hur högklassiga företagsprodukter från Adobe kan hjälpa er att klara era affärsutmaningar.
-source-git-commit: 7a525d1a1890b12bd5955ed8c80d0cbf7e855461
+exl-id: 3c0a75ec-2b4c-4984-bd42-0b5ddeb7c004
+source-git-commit: d35dc06c56c117cffe70542b6713f275877e4879
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
 
 ---
-
 
 # Integrationskonfigurationer för Experience Cloud-program
 
@@ -26,13 +26,13 @@ De här självstudiekurserna för integrering med Experience Cloud beskriver nå
 </tr>
 <tr>
    <td>
-      <div><strong><a href="./integrations-between-applications/overview.md">Per produkt</a></strong></div>
+      <div><strong><a href="./integrations-between-applications/overview.md">Efter produkt</a></strong></div>
       <p>
         Du vet vilken Adobe-produkt du ska använda och vill lära dig hur du integrerar dem.
       </p>
    </td>
    <td>
-      <div><strong><a href="./solution-categories/overview.md">Per företagslösning</a></strong></div>
+      <div><strong><a href="./solution-categories/overview.md">Efter affärslösning</a></strong></div>
       <p>
         Du vet vilken affärslösning du söker, men du vet inte vilken Adobe-produkt du ska använda.
       </p>

@@ -1,25 +1,25 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '242'
 ht-degree: 1%
 
 ---
 
 
-# [!DNL Analytics] och integrering med Experience Manager
+# Integrering av [!DNL Analytics] och Experience Manager
 
 {{analytics-description}}
 
 {{experience-manager-description}}
 
-Integrerande Adobe [!DNL Analytics] och Adobe Experience Manager har flera fördelar:
+Integrering av Adobe [!DNL Analytics] och Adobe Experience Manager ger flera fördelar, bland annat:
 
-+ **Exakt segmentering**: Lägg samman Adobe [!DNL Analytics] &amp; Audience Manager för personaliserade målgruppssegment i kampanjer.
-+ **Omfattande kunder** Profiler: Integrera datakällor för en enhetlig förståelse av interaktioner och beteenden.
-+ **Optimerad annonsanpassning**: Förbättra annonseffektiviteten med datadriven målinriktning från Adobe [!DNL Analytics] &amp; Audience Manager.
-+ **Underbyggda beslut**: Detaljerade insikter från sammanfogade Adobe [!DNL Analytics] och Audience Manager för bättre val.
-+ **Personaliserade upplevelser**: Personaliserat innehåll och erbjudanden över olika kontaktytor som utnyttjar båda plattformarnas funktioner.
++ **Exakt segmentering**: Lägg samman Adobe [!DNL Analytics] och Audience Manager för personaliserade målgruppssegment i kampanjer.
++ **Omfattande kundprofiler**: Integrera datakällor för en enhetlig förståelse av interaktioner och beteenden.
++ **Optimerad annonsinriktning**: Förbättra annonseffektiviteten med datadriven målinriktning från Adobe [!DNL Analytics] och Audience Manager.
++ **Informerade beslut**: Detaljerade insikter från sammanslagna data för Adobe [!DNL Analytics] och Audience Manager ger bättre val.
++ **Personaliserade upplevelser**: Personaliserat innehåll och erbjudanden över kontaktytor, vilket utnyttjar båda plattformarnas funktioner.
 
 ## Vanliga integreringar
 
@@ -35,10 +35,10 @@ Integrerande Adobe [!DNL Analytics] och Adobe Experience Manager har flera förd
     <tbody>
         <tr>
             <td rowspan="2">[!DNL Analytics] med AEM Sites</a></td>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/analytics-using-web-sdk.html" target="_blank" rel="noreferrer">Upplevelse [!DNL Platform] SDK-taggtillägg för Web eller alloy.js</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/analytics-using-web-sdk.html" target="_blank" rel="noreferrer">Upplev tillägget [!DNL Platform] Web SDK-taggar eller alloy.js</a></td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>När du vill rapportera AEM webbanalysdata i Adobe [!DNL Analytics]och kan integrera med andra Experience Cloud-program i framtiden.</li>
+                    <li>När du vill rapportera AEM webbanalysdata i Adobe [!DNL Analytics] och positionera dig själv för att integrera med andra Experience Cloud-program i framtiden.</li>
                 </ul>
             </td>
             <td>
@@ -50,10 +50,10 @@ Integrerande Adobe [!DNL Analytics] och Adobe Experience Manager har flera förd
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/collect-data-analytics.html" target="_blank" rel="noreferrer">Adobe [!DNL Analytics] tagg extension eller AppMeasurement.js</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/collect-data-analytics.html" target="_blank" rel="noreferrer">Adobe [!DNL Analytics]-taggtillägg eller AppMeasurement.js</a></td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>När du vill rapportera AEM webbanalysdata i Adobe [!DNL Analytics]och planerar inte att använda data i andra Experience Cloud-program</li>
+                    <li>När du vill rapportera AEM webbanalysdata i Adobe [!DNL Analytics] och inte planerar att använda data i andra Experience Cloud-program</li>
                     <li>När du använder AEM kärnkomponenter för spårbara webbplatselement.</li>
                     <li>När ni vill ha minimal konfiguration och implementering.</li>
                 </ul>
@@ -68,10 +68,10 @@ Integrerande Adobe [!DNL Analytics] och Adobe Experience Manager har flera förd
         </tr>
         <tr>
             <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-analytics/introduction.html" target="_blank" rel="noreferrer">[!DNL Analytics] och AEM Forms som Cloud Service</a></td>
-            <td>Upplevelse [!DNL Platform] Tillägget Web SDK-taggar</td>
+            <td>Upplev tillägget [!DNL Platform] Web SDK-taggar</td>
             <td>
               <ul style="margin-top: 0;">
-                <li>När ni vill rapportera data från digital formuläranalys i Adobe [!DNL Analytics]och kan integrera med andra Experience Cloud-program i framtiden.</li>
+                <li>När du vill rapportera data för digital formuläranalys i Adobe [!DNL Analytics] och positionera dig själv för integrering med andra Experience Cloud-program i framtiden.</li>
               </ul>
             </td>
             <td>

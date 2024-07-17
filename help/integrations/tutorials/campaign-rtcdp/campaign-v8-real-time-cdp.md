@@ -1,6 +1,6 @@
 ---
-title: Integrera [!DNL Campaign] v8 med Real-Time CDP självstudiekurs
-description: Integrera [!DNL Campaign] v8 med Real-Time CDP.
+title: Integrera [!DNL Campaign] v8 med Real-Time CDP, genomgång
+description: Lär dig hur du integrerar [!DNL Campaign] v8 med Real-Time CDP.
 solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations
@@ -22,14 +22,14 @@ ht-degree: 1%
 
 # Integrera [!DNL Campaign] v8 med Real-Time CDP
 
-## Anslut [!DNL Campaign] till upplevelsen [!DNL Platform] som mål
+## Anslut [!DNL Campaign] till Upplev [!DNL Platform] som mål
 
-Lär dig hur du aktiverar en Adobe-upplevelse [!DNL Platform] segmentera till en destination med anslutningstypen Amazon S3.
+Lär dig hur du aktiverar ett Adobe Experience [!DNL Platform]-segment till ett mål med Amazon S3-anslutningstypen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336902?quality=12&learn=on)
 
-## Importera mottagardata från upplevelsen [!DNL Platform] och mejla
+## Importera mottagardata från upplevelsen [!DNL Platform] och skicka ett e-postmeddelande
 
-Lär dig hur du konfigurerar ett externt konto i Adobe [!DNL Campaign] för att importera mottagardata från Adobe Experience [!DNL Platform] till [!DNL Campaign]. Lär dig hur du skapar ett arbetsflöde för att överföra och rikta in dig till mottagarna som tas emot från upplevelsen [!DNL Platform].
+Lär dig hur du konfigurerar ett externt konto i Adobe [!DNL Campaign] för att importera mottagardata från Adobe Experience [!DNL Platform] till [!DNL Campaign]. Lär dig hur du skapar ett arbetsflöde för att överföra och ange mottagarna som ska tas emot från upplevelsen [!DNL Platform] som mål.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336641?quality=12&learn=on)

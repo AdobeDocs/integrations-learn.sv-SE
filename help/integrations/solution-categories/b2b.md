@@ -4,8 +4,8 @@ description: Samordna lead-hantering, ABM och attribuering i stor skala över al
 exl-id: ed4fb791-7883-4f42-80a0-12ab4e3c80ab
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 1%
+source-wordcount: '217'
+ht-degree: 2%
 
 ---
 
@@ -41,7 +41,7 @@ Samordna lead-hantering, ABM och attribuering i stor skala över alla kanaler ba
 
 <tr>
   <td rowspan="1"><strong>Utöka målgrupper för personaliserings- och annonsplattformar</strong><br/></td> 
-  <td>Använd [!DNL Analytics] data för att skapa målgrupper som kan användas i personaliserings- eller marknadsföringsstrategier.</td>
+  <td>Använd [!DNL Analytics]-data för att skapa målgrupper som ska användas för personalisering eller återmarknadsföring.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Anpassa er digitala målgrupp och personalisering på enheter eller annonskanaler som stöds.</li>
@@ -54,7 +54,7 @@ Samordna lead-hantering, ABM och attribuering i stor skala över alla kanaler ba
 
 <tr>
   <td><strong>Personalisera digitala upplevelser</strong><br/></td>
-  <td> Använd kundprofiler i realtid och centralt hanterade [!DNL Platform] för att personalisera meddelanden över webben, mobiler och andra digitala kanaler.
+  <td> Använd kundprofiler i realtid och centralt hanterade [!DNL Platform]-segment för att anpassa meddelanden över webben, mobiler och andra digitala kanaler.
   </td>
   <td>
     <ul style="margin-top: 0;">
@@ -70,7 +70,7 @@ Samordna lead-hantering, ABM och attribuering i stor skala över alla kanaler ba
 <tr>
   <td><strong>Förbättra leadgenerering</strong><br/></td>
   <td>
-    Använd kundprofiler i realtid och centralt hanterade [!DNL Platform] för att personalisera meddelanden över webben, mobiler och andra digitala kanaler
+    Använd kundprofiler i realtid och centralt hanterade [!DNL Platform]-segment för att anpassa meddelanden över webben, mobiler och andra digitala kanaler
   </td>
   <td>
     <ul style="margin-top: 0;">

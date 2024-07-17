@@ -1,7 +1,7 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '102'
 ht-degree: 2%
 
 ---
@@ -15,10 +15,10 @@ ht-degree: 2%
 
 Att integrera Adobe Journey Optimizer &amp; Experience Manager Assets Essentials har flera fördelar, bland annat:
 
-+ **Effektiv leverans av innehåll**: Samarbeta smidigt kring personaliserat innehåll.
-+ **Effektivare marknadsföring**: Spara tid och säkerställ enhetliga kampanjer.
++ **Effektiv innehållsleverans**: Samarbeta smidigt med personaliserat innehåll.
++ **Förbättrad marknadsföringseffektivitet**: Sparar tid och säkerställer konsekvens i kampanjer.
 + **Datadriven personalisering**: Skräddarsy innehåll med värdefulla insikter.
-+ **Versionskontroll och styrning**: Upprätthåller ett konsekvent varumärkesbudskap.
++ **Versionskontroll och styrning**: Upprätthåller konsekventa varumärkesmeddelanden.
 + **Effektivt samarbete**: Underlättar lagarbete och smidiga arbetsflöden.
 
 ## Vanliga integreringar
@@ -42,7 +42,7 @@ Att integrera Adobe Journey Optimizer &amp; Experience Manager Assets Essentials
                 </ul>
             </td>
             <td>
-                <ul style="margin-top: 0;"><li>Skapa innehåll med Journey Optimizer e-postdesigner.</li></ul>
+                <ul style="margin-top: 0;"><li>Skapa innehåll med Journey Optimizer Email Designer.</li></ul>
             </td>
         </tr>        
     </tbody>          
