@@ -3,7 +3,7 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: 56161e27aecff07b0d93bf85edb994c477d9e586
+source-git-commit: 969f6489b79a84079c542c008b8f7dd372afcd60
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -22,12 +22,7 @@ ht-degree: 0%
 <table>
  <tr style= "border: 0;">
   <td align="center">
-    <strong style= "font-size: 2em"> Master Generative AI. Omforma dina arbetsflöden.</strong>
-  </td>
- </tr>
- <tr style= "border: 0;">
-  <td align="center">
-    Lär dig grunderna för att använda generativ AI i arbetsflöden för marknadsföring. Var som helst. Kostnadsfritt.
+    <strong style= "font-size: 2em"> Master Generative AI. Omforma dina arbetsflöden.</strong><p>Lär dig grunderna för att använda generativ AI i arbetsflöden för marknadsföring. Var som helst. Kostnadsfritt.
   </td>
  </tr>
 </table>
