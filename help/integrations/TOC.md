@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om integreringar i Experience Cloud
 breadcrumb-title: Experience Cloud-integreringar
 user-guide-description: Lär dig om integreringar.
 mini-toc-levels: 1
-source-git-commit: b11b179bfc87a44387cf4d331386e729f0ce8b71
+source-git-commit: 055180c634e028a208d1def883288441e76f87c3
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '93'
 ht-degree: 17%
 
 ---
@@ -23,6 +23,7 @@ ht-degree: 17%
    + [Kundresor](./solution-categories/customer-journeys.md)
    + [Datainsikter och aktivering](./solution-categories/data-insights.md)
    + [Personalization i stor skala](./solution-categories/personalization.md)
+   + [GenStudio Academy](./tutorials/genstudio-academy.md)
 + Produktintegrationer{#integrations-between-applications}
    + [Översikt](./integrations-between-applications/overview.md)
    + [!DNL Acrobat Sign]{#acrobat-sign}
