@@ -3,7 +3,7 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: 3beec04de562b317561163d5570874593f7f1a7f
+source-git-commit: e9a35153024bdf107dcc3f189c3e6d39d43a5924
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <table>
  <tr style= "border: 0;">
-  <td> <H3>Bli en generativ AI-ledare.</H3><p> Bli en generativ AI-ledare. Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Registrera</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Inloggning</span></a></td>
+  <td> <strong>Bli en generativ AI-ledare.</strong><p> Bli en generativ AI-ledare. Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Registrera</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Inloggning</span></a></td>
   <td><img src="./assets/medium.png"></td>
  </tr>
 </table>
@@ -22,7 +22,7 @@ ht-degree: 0%
 <table>
  <tr style= "border: 0;">
   <td align="center">
-    <h3> Master Generative AI. Omvandla arbetsflödena.</h3>
+    <strong> Master Generative AI. Omforma dina arbetsflöden.</strong>
   </td>
  </tr>
  <tr style= "border: 0;">
@@ -37,7 +37,7 @@ ht-degree: 0%
 <table>
  <tr style= "border: 0;">
   <td><img src="./assets/medium.png"></td>
-  <td align="center"> <H3>Generativ AI-kompetens när som helst.</h3><p> Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt. Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt. Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt.<p><a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Utforska nu</span></a></td>
+  <td align="center"> <strong style= "font-size: 2em">Generativa AI-kunskaper när som helst.</strong><p> Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt. Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt. Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt.<p><a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Utforska nu</span></a></td>
  </tr>
 </table>
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 <table>
  <tr style= "border: 0;">
-  <td align="center"> <H3>Enkelt att fråga.</h3><p> Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt. Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt. Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt.</td>
+  <td align="center"> <strong>Enkel fråga.</strong><p> Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt. Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt. Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt.</td>
   <td><img src="./assets/medium.png"></td>
  </tr>
 </table>
@@ -53,7 +53,7 @@ ht-degree: 0%
 <table>
  <tr style= "border: 0;">
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td> 
-  <td> <H3>Bryter ner generativ AI för marknadsföring.</H3><p> Bli en generativ AI-ledare. Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Registrera</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Inloggning</span></a><td>
+  <td> <strong>Bryter ned generativ AI för marknadsföring.</strong><p> Bli en generativ AI-ledare. Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Registrera</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Inloggning</span></a><td>
  </tr>
 </table>
 
@@ -75,7 +75,7 @@ https://video.tv.adobe.com/v/26061?format=jpeg
 <table>
  <tr style= "border: 0;">
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td> 
-  <td> <H3>Förverkliga dina kunskaper</H3><p> Bli en generativ AI-ledare. Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Ta mig dit</span></a><td>
+  <td> <strong>Förverkliga dina kunskaper</strong><p> Bli en generativ AI-ledare. Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Ta mig dit</span></a><td>
  </tr>
 </table>
 
