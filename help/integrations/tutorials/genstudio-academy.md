@@ -3,9 +3,9 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: aeefe4dcd0140149b419fc77631b324797547b30
+source-git-commit: e8809d1e8662797ef6c3fdf0370e83f96797f600
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
@@ -79,12 +79,19 @@ ht-degree: 0%
 
 <table>
  <tr style= "border: 0;">
- <td><img src="./assets/medium.png"></td>
-  <td> <strong style= "font-size: 2em">FOTOFOTO</strong><p> Bli en generativ AI-ledare. Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Registrera</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Inloggning</span></a></td>
+ <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
+  <td> <strong style= "font-size: 2em">Förverkliga dina kunskaper</strong><p> Bli en generativ AI-ledare. Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Ta mig dit</span></a></td>
 
 </tr>
 </table>
 
+<table>
+ <tr style= "border: 0;">
+ <td><img src="./assets/medium.png"></td>
+  <td> <strong style= "font-size: 2em">FOTOFOTO</strong><p> Bli en generativ AI-ledare. Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Ta mig dit</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Inloggning</span></a></td>
+
+</tr>
+</table>
 
 >[!ENDSHADEBOX]
 
