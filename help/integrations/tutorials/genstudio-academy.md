@@ -3,9 +3,9 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: 54f15c2af2f720ae353f168caf2a066697a8c895
+source-git-commit: 743c51f9736576d0c0d41bd8d4924c1fc2ca320f
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <table>
  <tr style= "border: 0;">
-  <td> <strong style= "font-size: 2em">Bli en generativ AI-ledare.</strong><p> Bli en generativ AI-ledare. Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Registrera</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Inloggning</span></a></td>
+  <td> <strong style= "font-size: 2em">Förbättra dina generativa AI-kunskaper.  </strong><p>Lär dig de generativa AI-kunskaperna för att omvandla era kreativa arbetsflöden och era marknadsföringsarbetsflöden. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Registrera</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Inloggning</span></a></td>
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
  </tr>
 </table>
@@ -22,7 +22,7 @@ ht-degree: 0%
 <table>
  <tr style= "border: 0;">
   <td align="center">
-    <strong style= "font-size: 2em"> Master Generative AI. Omforma dina arbetsflöden.</strong><p>Lär dig grunderna för att använda generativ AI i arbetsflöden för marknadsföring. Var som helst. Kostnadsfritt.
+    <strong style= "font-size: 2em">Huvudgenerativ AI med GenStudio Academy.</strong><p>Ge viktiga kunskaper för att integrera generativ AI i era kreativa arbetsflöden och marknadsföringsarbetsflöden - när som helst, var som helst och helt kostnadsfritt.
   </td>
  </tr>
 </table>
@@ -31,8 +31,8 @@ ht-degree: 0%
 
 <table>
  <tr style= "border: 0;">
-  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
-  <td align="center"> <strong style= "font-size: 2em">Generativa AI-kunskaper när som helst.</strong><p> Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt. Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt. Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt.<p><a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Utforska nu</span></a></td>
+  <td><img src="./assets/generative-ai-for-marketing-simplified.png"></td>
+  <td align="center"> <strong style= "font-size: 2em">Generativ AI för marknadsföring. Förenklad.</strong><p> GenStudio Academy omvandlar komplexa generativa AI-uppgifter till enkla kurser som att omvandla varumärkesriktlinjer. Genom nedladdningsbara guider och videor kan eleverna bemästra generativ AI, ett koncept i taget.<p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Utforska nu</span></a></td>
  </tr>
 </table>
 
@@ -40,20 +40,19 @@ ht-degree: 0%
 
 <table>
  <tr style= "border: 0;">
-  <td align="center"> <strong style= "font-size: 2em">Bryter ned generativ AI för marknadsföring.</strong><p> Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt. Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt. Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt.</td>
+  <td align="center"> <strong style= "font-size: 2em">Utbildningsnivåer. Obegränsat affärstillfälle upplåst.</strong><p>Med GenStudio Academy är det enkelt att hitta innehåll som ökar dina kreativa AI-kunskaper, oavsett om du lär dig mer om LLM, mastringsprompter eller ser AI-verktyg i praktiken. GenStudio Academy har något för alla.</td>
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
  </tr>
 </table>
 
 
 <table>
- <tr style= "border: 0;colspan: 3;">
-  <td colspan="3"> <strong style= "font-size: 2em;">Kommer snart till Genstudio Academy</strong></td>
- </tr> 
+ <!-- <tr style= "border: 0;colspan: 3;">
+  <td colspan=3> <strong style= "font-size: 2em;">Coming soon to Genstudio Academy</strong></td>
+ </tr> --> 
  <tr style= "border: 0;colspan: 3;"> 
-    <td align="left"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
-    <td align="center"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
-    <td align="right"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
+    <td align="left"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"><p>Tips och tricks för GenStudio for Performance Marketing på det mest effektiva sättet. </td>
+    <td align="right"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"><p>Avancerade kurser som ger AI-kunskaper på expertnivå möjlighet till marknadsföring. </td>
  </tr>
 </table>
 
@@ -62,15 +61,13 @@ ht-degree: 0%
 <table>
     <tr></tr>
  <tr style= "border: 0;">
- <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
-  <td> <strong style= "font-size: 2em">Förverkliga dina kunskaper</strong><p> Bli en generativ AI-ledare. Lär dig bemästra AI-kunskaperna för att omvandla arbetsflödena och leda branschen framåt. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Ta mig dit</span></a></td>
+ <td><img src="./assets/put-your-learnings-into-practice.png"></td>
+  <td> <strong style= "font-size: 2em">Förverkliga dina kunskaper</strong><p>Utforska GenStudio for Performance Marketing, en generativ AI-tillämpning som gör att marknadsföringsteamen kan skapa egna annonser och e-postmeddelanden för att skapa slagkraftiga, personaliserade marknadsföringskampanjer.<p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Ta mig dit</span></a></td>
  </tr>
     <tr></tr>
 </table>
 
 >[!ENDSHADEBOX]
-
->[!VIDEO](https://video.tv.adobe.com/v/3434938?autoplay=true&end=replay)
 
 <!--
 ## Heading 2 SHADEBOXES
