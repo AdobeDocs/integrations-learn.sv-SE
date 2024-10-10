@@ -3,9 +3,9 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: 58659803aa9611d28c8b31c3f879f0df4e10fe32
+source-git-commit: e8126729c5ebc92999d09be07c8a359f96236ed3
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -47,15 +47,14 @@ ht-degree: 0%
 
 
 <table>
- <!-- <tr style= "border: 0;colspan: 3;">
-  <td colspan=3> <strong style= "font-size: 2em;">Coming soon to Genstudio Academy</strong></td>
- </tr> --> 
+ <tr style= "border: 0;colspan: 3;">
+  <td colspan="3"> <strong style= "font-size: 2em;">Kommer snart till Genstudio Academy</strong></td>
+ </tr> 
  <tr style= "border: 0;colspan: 3;"> 
    <td>
       <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
       <div>
-      <a href="https://www.adobe.com"><strong>Tips och tricks </strong>
-      </a>
+      <strong>Tips och tricks </strong>
       </div>
       <p>
       Tips och tricks för GenStudio for Performance Marketing på det mest effektiva sättet.
@@ -64,8 +63,7 @@ ht-degree: 0%
    <td>
       <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
       <div>
-      <a href="https://www.adobe.com"><strong>Expertkurser</strong>
-      </a>
+      <strong>Expertkurser</strong>
       </div>
       <p>
       Avancerade kurser som ger AI-kunskaper på expertnivå möjlighet till marknadsföring.
@@ -80,7 +78,7 @@ ht-degree: 0%
     <tr></tr>
  <tr style= "border: 0;">
  <td><img src="./assets/put-your-learnings-into-practice.png"></td>
-  <td> <strong style= "font-size: 2em">Förverkliga dina kunskaper</strong><p>Utforska GenStudio for Performance Marketing, en generativ AI-tillämpning som gör att marknadsföringsteamen kan skapa egna annonser och e-postmeddelanden för att skapa slagkraftiga, personaliserade marknadsföringskampanjer.<p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Ta mig dit</span></a></td>
+  <td> <strong style= "font-size: 2em">Förverkliga dina kunskaper</strong><p>Utforska GenStudio for Performance Marketing, en generativ AI-tillämpning som gör att marknadsföringsteamen kan skapa egna annonser och e-postmeddelanden för att skapa slagkraftiga, personaliserade marknadsföringskampanjer.<p><a href="https://business.adobe.com" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Ta mig dit</span></a></td>
  </tr>
     <tr></tr>
 </table>
