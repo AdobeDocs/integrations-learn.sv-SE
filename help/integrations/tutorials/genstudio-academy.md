@@ -3,7 +3,7 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: c9395bb9f75f00a816757fc76cb137de1a7bbc63
+source-git-commit: e14b1f5e7a01a9e55aee6be31f9d4d262efe9140
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
@@ -78,7 +78,7 @@ ht-degree: 0%
     <tr></tr>
  <tr style= "border: 0;">
  <td><img src="./assets/put-your-learnings-into-practice.png"></td>
-  <td> <strong style= "font-size: 2em">Förverkliga dina kunskaper</strong><p>Utforska GenStudio for Performance Marketing, en generativ AI-tillämpning som gör att marknadsföringsteamen kan skapa egna annonser och e-postmeddelanden för att skapa slagkraftiga, personaliserade marknadsföringskampanjer.<p><a href="https://business.adobe.com" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Ta mig dit</span></a></td>
+  <td> <strong style= "font-size: 2em">Förverkliga dina kunskaper</strong><p>Utforska GenStudio for Performance Marketing, en generativ AI-tillämpning som gör att marknadsföringsteamen kan skapa egna annonser och e-postmeddelanden för att skapa slagkraftiga, personaliserade marknadsföringskampanjer.<p><a href="https://business.adobe.com/products/genstudio-for-performance-marketing.html" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Ta mig dit</span></a></td>
  </tr>
     <tr></tr>
 </table>
