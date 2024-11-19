@@ -1,7 +1,7 @@
 ---
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '941'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Adobe kundresa [!DNL Analytics] (CJA) är en analysplattform som erbjuds av Adob
 
 ## Experience Manager description {#experience-manager-description}
 
-Adobe Experience Manager (AEM) är ett CMS-system (Content Management System) som gör det möjligt för organisationer att skapa, hantera och leverera digitalt innehåll över flera kanaler, till exempel webbplatser, mobilappar och sociala medier. AEM gör det möjligt för företag att personalisera innehåll, optimera kundupplevelser och mäta hur effektiva deras digitala strategier är.
+Adobe Experience Manager (AEM) är ett innehållshanteringssystem (CMS) som gör att organisationer kan skapa, hantera och leverera digitalt innehåll i flera kanaler, till exempel webbplatser, mobilappar och sociala medier. AEM gör det möjligt för företag att personalisera innehåll, optimera kundupplevelser och mäta hur effektiva deras digitala strategier är.
 
 ## Beskrivning av Experience Manager Forms {#experience-manager-forms-description}
 
@@ -46,6 +46,11 @@ Adobe Experience Manager Forms ingår i Adobe Experience Manager och är utforma
 ## Beskrivning av upplevelsen [!DNL Platform] {#experience-platform-description}
 
 Adobe Experience [!DNL Platform] är det mest kraftfulla, flexibla och öppna systemet på marknaden för att bygga och hantera kompletta lösningar som driver kundupplevelsen. Med upplevelsen [!DNL Platform] kan organisationer centralisera och standardisera kunddata och innehåll från alla system och tillämpa datavetenskap och maskininlärning för att avsevärt förbättra utformningen och leveransen av avancerade, personaliserade upplevelser.
+
+
+## Beskrivning av GenStudio for Performance Marketing {#genstudio-for-performance-marketing-description}
+
+Adobe GenStudio for Performance Marketing är en kraftfull applikation som effektiviserar framtagning och hantering av innehåll genom att integrera varumärkesgodkända resurser, vilket gör det möjligt för marknadsförare att leverera personaliserat, enhetligt innehåll i alla kanaler i stor skala, vilket ger bättre kampanjresultat.
 
 ## Beskrivning av Journey Optimizer {#journey-optimizer-description}
 
