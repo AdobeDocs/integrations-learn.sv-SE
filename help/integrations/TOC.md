@@ -3,10 +3,10 @@ user-guide-title: Självstudiekurser om integreringar i Experience Cloud
 breadcrumb-title: Experience Cloud-integreringar
 user-guide-description: Lär dig om integreringar.
 mini-toc-levels: 1
-source-git-commit: f3dfc96926bbff3fec05435a4d6f6783ae42ad6a
+source-git-commit: 1ef94353ffe1be605df8e575edac3e2a9ef69afb
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 14%
+source-wordcount: '113'
+ht-degree: 15%
 
 ---
 
@@ -105,11 +105,6 @@ ht-degree: 14%
    + GenStudio for Performance Marketing och Experience Manager {#genstudio-for-performance-marketing-experience-manager}
       + [Översikt](./tutorials/aem-genstudio-for-performance-marketing/overview.md)
       + [Konfigurera](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
-&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-      + [Integrering - genomgång](./tutorials/aem-genstudio-for-performance-marketing/integration-walkthrough.md)
-=======
-      + [Genomgång av integrering](./tutorials/aem-genstudio-for-performance-marketing/integration-walk-through.md)
->>>>>>>>>>edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
-+ [Använd skiftläge 1](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
-+ [Använd skiftläge 2](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
-> 
+      + [Integreringsgenomgång](./tutorials/aem-genstudio-for-performance-marketing/integration-walkthrough.md)
+      + [Använd skiftläge 1](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
+      + [Använd skiftläge 2](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
