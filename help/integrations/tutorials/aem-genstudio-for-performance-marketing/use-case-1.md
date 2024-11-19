@@ -11,15 +11,17 @@ doc-type: Feature Video
 duration: 295
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16483
-source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
+source-git-commit: 3a3d2542604a870efbe84fe3b7f1012483df3232
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 
 # Lätt att granska och godkänna i Adobe GenStudio
+
+[‹ tillbaka till integreringsöversikt](./overview.md)
 
 Lär dig hur du överför, granskar och godkänner mediefiler i AEM Assets as a Cloud Service för att effektivisera arbetsflödet. När de godkänts integreras dessa resurser smidigt i GenStudio for Performance Marketing och säkerställer enkel tillgång till varumärkesgodkänt material för era kampanjer.
 

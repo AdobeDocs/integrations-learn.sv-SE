@@ -11,15 +11,17 @@ doc-type: Feature Video
 duration: 296
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16482
-source-git-commit: a542f8a0f230b2a2fb3eaedf503e2b801f26aa9b
+source-git-commit: 3a3d2542604a870efbe84fe3b7f1012483df3232
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
 
 # Integreringsgenomgång
+
+[‹ tillbaka till integreringsöversikt](./overview.md)
 
 Lär dig grunderna i AEM Assets as a Cloud Service- och GenStudio for Performance Marketing-integrering, hur du överför resurser till AEM Assets, hur du godkänner mediefiler i AEM Assets och hur du använder godkända mediefiler i GenStudio for Performance Marketing.
 
