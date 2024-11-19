@@ -1,7 +1,7 @@
 ---
-source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
+source-git-commit: f3dfc96926bbff3fec05435a4d6f6783ae42ad6a
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '130'
 ht-degree: 2%
 
 ---
@@ -42,7 +42,11 @@ Att integrera Adobe GenStudio for Performance Marketing och Experience Manager A
             <td>
                 <ul style="margin-top: 0;">
                     <li>Överför, granska och godkänn varumärkesresurser.</li>
+&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+                    <li>Skapa bildvarianter av godkända varumärkesresurser som kan användas i marknadsföringsupplevelser.</li>
+=======
                     <li>Skapa bildvarianter av godkända varumärkesresurser som kan användas i marknadsföringsupplevelser.</li>&lt;
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
                 </ul>
             </td>
         </tr>        
