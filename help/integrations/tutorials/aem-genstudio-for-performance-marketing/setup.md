@@ -11,7 +11,7 @@ doc-type: Feature Video
 duration: 416
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16484
-source-git-commit: 3a3d2542604a870efbe84fe3b7f1012483df3232
+source-git-commit: 7d07f37f6267eda106f895cb367d42669f0d5c65
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Konfigurera
 
-[‹ tillbaka till integreringsöversikt](./overview.md)
+[Tillbaka till integreringsöversikt](./overview.md)
 
 För att komma igång med Adobe GenStudio med AEM Assets as a Cloud Service och GenStudio for Performance Marketing måste båda programmen vara korrekt konfigurerade. Installationsprocessen omfattar flera steg som måste utföras innan du kan integrera Adobe GenStudio fullständigt med AEM Assets och GenStudio for Performance Marketing.
 
