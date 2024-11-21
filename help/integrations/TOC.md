@@ -3,10 +3,10 @@ user-guide-title: Självstudiekurser om integreringar i Experience Cloud
 breadcrumb-title: Experience Cloud-integreringar
 user-guide-description: Lär dig om integreringar.
 mini-toc-levels: 1
-source-git-commit: 1ef94353ffe1be605df8e575edac3e2a9ef69afb
+source-git-commit: 6c6adc31c2c556373528841250c5c91ac42388a6
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 15%
+source-wordcount: '118'
+ht-degree: 14%
 
 ---
 
@@ -106,5 +106,5 @@ ht-degree: 15%
       + [Översikt](./tutorials/aem-genstudio-for-performance-marketing/overview.md)
       + [Konfigurera](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
       + [Integreringsgenomgång](./tutorials/aem-genstudio-for-performance-marketing/integration-walkthrough.md)
-      + [Använd skiftläge 1](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
-      + [Använd skiftläge 2](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
+      + [Granskning och godkännande i Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
+      + [Skapa varianter med Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
