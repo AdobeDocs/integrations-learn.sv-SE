@@ -15,7 +15,7 @@ index: true
 hidefromtoc: true
 badgeIntegration: label="AEM och GenStudio for Performance Marketing" type="positive"
 exl-id: 091852ef-cce4-40dd-97bf-f0deee2c99c3
-source-git-commit: d45c811d7cf36b7babb468344f4007c9e3a43b04
+source-git-commit: 0736d748f4c188ae0b11c43d343ab67d620bac21
 workflow-type: tm+mt
 source-wordcount: '512'
 ht-degree: 0%
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Utnyttja Adobe GenStudion och AEM Assets as a Cloud Service till att förändra era arbetsflöden för marknadsföring. Med smidig integrering får ni tillgång till varumärkesgodkänt material från en central lagringsplats för att skapa enhetligt, högklassigt innehåll för alla kampanjer och kanaler. Upptäck hur dessa verktyg effektiviserar innehållsförsörjningskedjan och ökar er marknadsföringseffekt.
 
-## Krav
+## Förhandskrav
 
 Integrationen mellan AEM Assets och GenStudio for Performance Marketing kräver en grundläggande förståelse för följande:
 
