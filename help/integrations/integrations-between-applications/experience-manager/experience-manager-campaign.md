@@ -12,10 +12,10 @@ thumbnail: campaign-experience-manager.png
 badgeIntegration: label="Integrering" type="positive"
 last-substantial-update: 2023-07-31T00:00:00Z
 exl-id: 107713d0-f45d-48c1-bb56-e740d3dc95e0
-source-git-commit: d35dc06c56c117cffe70542b6713f275877e4879
+source-git-commit: 41c8778b426a7453428a636cb6bc1f8746f8494e
 workflow-type: tm+mt
-source-wordcount: '22'
-ht-degree: 4%
+source-wordcount: '20'
+ht-degree: 5%
 
 ---
 
