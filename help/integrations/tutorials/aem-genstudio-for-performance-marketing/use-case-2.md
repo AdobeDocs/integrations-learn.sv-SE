@@ -1,7 +1,6 @@
 ---
 title: Skapa varianter med Adobe GenStudio
 description: Upptäck hur du kan använda AEM Assets och Adobe Express för att skapa varianter av e-post och metaannonser, vilket ger en sammanhängande marknadsföringsupplevelse.
-solution: Experience Manager, GenStudio for Performance Marketing.
 version: Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
 topic: Content Supply Chain
@@ -15,7 +14,7 @@ index: true
 hidefromtoc: true
 badgeIntegration: label="AEM Asset och GenStudio for Performance Marketing" type="positive"
 exl-id: 338762f2-179a-47ab-8ca8-d22921a0354d
-source-git-commit: 28b68f937a15cf205b160aa8b4d39e3c6046ad7a
+source-git-commit: 998a43ccd2b3d8a15f4c065e9e0f153edd81b7a6
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
