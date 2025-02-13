@@ -1,6 +1,6 @@
 ---
-title: Konfigurera Adobe GenStudio med GenStudio for Performance Marketing och AEM Assets
-description: Lär dig hur du konfigurerar integreringen mellan AEM Assets och GenStudio for Performance Marketing.
+title: Konfigurera GenStudio for Performance Marketing och AEM Assets
+description: Konfigurera Adobe GenStudio med GenStudio for Performance Marketing och AEM Assets för att effektivisera framtagningen av innehåll och säkerställa varumärkets enhetlighet.
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
@@ -14,22 +14,22 @@ index: true
 hidefromtoc: true
 jira: KT-16484
 exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f
-source-git-commit: 153f3ba3b335748d35be9a5dea0a3ec6f1c0e346
+source-git-commit: 8e3adf228592b60b2a226326e885f9e7359ff232
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 0%
+source-wordcount: '272'
+ht-degree: 7%
 
 ---
 
 # Konfigurera GenStudio for Performance Marketing och AEM Assets
 
-[‹ tillbaka till AEM och GenStudio for Performance Marketing - översikt](./overview.md)
+[‹ Tillbaka till AEM Assets och GenStudio for Performance Marketing - översikt](./overview.md)
 
 Om du vill börja använda Adobe GenStudio med AEM Assets as a Cloud Service och GenStudio for Performance Marketing måste du se till att de nödvändiga produkterna är provisionerade, aktiverade och konfigurerade. Du måste ha tillgång till:
 
 * AEM Assets as a Cloud Service
 * AEM Assets Content Hub
-* GenStudio for Performance Marketing
+* GenStudio för prestationsbaserad marknadsföring
 
 Det finns inga ytterligare konfigurationer som behövs för att integrera dessa produkter utöver att säkerställa att de är tillgängliga, konfigurerade och tillgängliga för användaren.
 
@@ -65,7 +65,7 @@ Om dessa Adobe-produkter ännu inte har konfigurerats och aktiverats kan du få 
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" title="Konfigurera AEM Assets">Konfigurera AEM Assets</a>
                     </p>
-                    <p class="is-size-6">Lär dig navigera i AEM Assets as a Cloud Service i Assets-vyn med detta urval av videouppspelningslistor som syftar till att förbättra din produktkunskap.</p>
+                    <p class="is-size-6">Upptäck hur du navigerar i AEM Assets as a Cloud Service i Assets-vyn med detta urval av videouppspelningslistor som syftar till att förbättra din produktkunskap.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
@@ -111,7 +111,7 @@ Om dessa Adobe-produkter ännu inte har konfigurerats och aktiverats kan du få 
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started" target="_blank" rel="referrer" title="Konfigurera GenStudio for Performance Marketing">Konfigurera GenStudio for Performance Marketing</a>
                     </p>
-                    <p class="is-size-6">Ta reda på hur ni kommer igång med GenStudio for Performance Marketing för att skapa nytt varumärkesanpassat marknadsföringsmaterial.</p>
+                    <p class="is-size-6">Lär dig hur du kommer igång med GenStudio for Performance Marketing för att generera nytt varumärkesanpassat marknadsföringsinnehåll.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
