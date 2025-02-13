@@ -1,6 +1,6 @@
 ---
 title: Integreringsgenomgång av AEM Assets och GenStudio for Performance Marketing
-description: Lär dig grunderna i AEM Assets- och GenStudio for Performance Marketing-integrering, hur du överför resurser till AEM Assets, hur du godkänner mediefiler i AEM Assets och hur du använder godkända mediefiler i GenStudio for Performance Marketing.
+description: Lär dig hur du använder AEM Assets och GenStudio for Performance Marketing, från att överföra och godkänna resurser i AEM till att använda resurser i GenStudio for Performance Marketing.
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
@@ -13,19 +13,19 @@ last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16482
 index: true
 hidefromtoc: true
-badgeIntegration: label="AEM och GenStudio for Performance Marketing" type="positive"
+badgeIntegration: label="AEM Asset och GenStudio for Performance Marketing" type="positive"
 exl-id: 42185429-16ee-42df-bce4-d6d97f13b166
-source-git-commit: 7764aca295510187e45b448d39f23514915a6517
+source-git-commit: 1eb538915a3c53ce478eac8d5462648b1477a3a4
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
-# AEM Assets and GenStudio for Performance Marketing walkthrough
+# Genomgång av AEM Assets och GenStudio for Performance Marketing
 
-[‹ tillbaka till AEM och GenStudio for Performance Marketing - översikt](./overview.md)
+[‹ Tillbaka till AEM Assets och GenStudio for Performance Marketing - översikt](./overview.md)
 
-Lär dig grunderna i AEM Assets as a Cloud Service- och GenStudio for Performance Marketing-integrering, hur du överför resurser till AEM Assets, hur du godkänner mediefiler i AEM Assets och hur du använder godkända mediefiler i GenStudio for Performance Marketing.
+Lär dig grunderna i hur du använder integreringen mellan AEM Assets as a Cloud Service och GenStudio for Performance Marketing, hur du överför resurser till AEM Assets, hur du godkänner mediefiler i AEM Assets och hur du använder godkända mediefiler i GenStudio for Performance Marketing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439264/?learn=on&enablevpops)
