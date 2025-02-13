@@ -1,6 +1,6 @@
 ---
-title: Adobe GenStudio med GenStudio for Performance Marketing och AEM Assets
-description: I den här videon beskrivs hur integrering av AEM Assets med GenStudio for Performance Marketing ger team tillgång till ett centralt arkiv med varumärkesgodkända mediefiler, vilket garanterar enhetligt innehåll i alla kanaler och kampanjer.
+title: Använda Adobe GenStudio for Performance Marketing och AEM Assets
+description: Lås upp Adobe GenStudio för att effektivisera marknadsföringen. Få tillgång till varumärkesgodkänt material och skapa enhetligt, högkvalitativt innehåll i alla kanaler.
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
@@ -13,11 +13,11 @@ last-substantial-update: 2024-11-21T00:00:00Z
 jira: KT-16480
 index: true
 hidefromtoc: true
-badgeIntegration: label="AEM och GenStudio for Performance Marketing" type="positive"
+badgeIntegration: label="AEM Asset och GenStudio for Performance Marketing" type="positive"
 exl-id: 091852ef-cce4-40dd-97bf-f0deee2c99c3
-source-git-commit: ad3d8d090434b1c1a2cbcf024223db9fb6bb9fef
+source-git-commit: 7ffb3102086df5d7ca7b6593fd94bec9518d227e
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '498'
 ht-degree: 0%
 
 ---
@@ -26,20 +26,20 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439263/?learn=on)
 
-Utnyttja Adobe GenStudion och AEM Assets as a Cloud Service till att förändra era arbetsflöden för marknadsföring. Med smidig integrering får ni tillgång till varumärkesgodkänt material från en central lagringsplats för att skapa enhetligt, högklassigt innehåll för alla kampanjer och kanaler. Upptäck hur dessa verktyg effektiviserar innehållsförsörjningskedjan och ökar er marknadsföringseffekt.
+Utnyttja möjligheterna i Adobe GenStudio och AEM Assets as a Cloud Service för att förändra era arbetsflöden för marknadsföring. Med smidig integrering får ni tillgång till varumärkesgodkänt material från en central lagringsplats för att skapa enhetligt, högklassigt innehåll för alla kampanjer och kanaler. Upptäck hur dessa verktyg effektiviserar innehållsförsörjningskedjan och ökar er marknadsföringseffekt.
 
 ## Förhandskrav
 
 Integrationen mellan AEM Assets och GenStudio for Performance Marketing kräver en grundläggande förståelse för följande:
 
-* Adobe GenStudio for Performance Marketing
-* AEM Assets as a Cloud Service
+* [Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/browse/genstudio-for-performance-marketing)
+* [AEM Assets as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/overview)
 
 Kontrollera att du har tillgång till AEM Assets och GenStudio for Performance Marketing innan du ger dig in i konfiguration och arbetsflöden.
 
 ## Kom igång
 
-Upptäck två omfattande genomgångar som utformats för användare med grundläggande kunskaper i AEM Assets och GenStudio for Performance Marketing. Den första genomgången vägleder dig genom konfigurationsprocessen och täcker allt som behövs för att sömlöst integrera Adobe GenStudio med AEM Assets as a Cloud Service. Det andra ger inblick i viktiga arbetsflöden och visar de viktigaste rörelserna för att utnyttja integreringen för att effektivt skapa, hantera och distribuera marknadsföringsmaterial.
+Upptäck två omfattande genomgångar som utformats för användare med grundläggande kunskaper i AEM Assets och GenStudio for Performance Marketing. Den första genomgången vägleder dig genom installationsprocessen och täcker allt som behövs för att sömlöst integrera Adobe GenStudio med AEM Assets as a Cloud Service. Det andra ger inblick i viktiga arbetsflöden och visar de viktigaste rörelserna för att utnyttja integreringen för att effektivt skapa, hantera och distribuera marknadsföringsmaterial.
 
 <!-- CARDS 
 
@@ -119,8 +119,8 @@ Utforska praktiska användningsexempel som utformats för användare med en grun
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" title="Lätt att granska och godkänna i Adobe GenStudio" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439265/?format=jpeg&nocache=1733416518715" alt="Lätt att granska och godkänna i Adobe GenStudio"
+                    <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" title="Lätt granskning och godkännande i Adobe GenStudio" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439265/?format=jpeg&nocache=1733416518715" alt="Lätt granskning och godkännande i Adobe GenStudio"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -128,7 +128,7 @@ Utforska praktiska användningsexempel som utformats för användare med en grun
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" target="_blank" rel="referrer" title="Lätt att granska och godkänna i Adobe GenStudio">Lätt granskning och godkännande i Adobe GenStudio</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" target="_blank" rel="referrer" title="Lätt granskning och godkännande i Adobe GenStudio">Lätt att granska och godkänna i Adobe GenStudio</a>
                     </p>
                     <p class="is-size-6">Utforska hur du överför, granskar och godkänner mediefiler i AEM Assets så att de blir tillgängliga för användning i GenStudio for Performance Marketing.</p>
                 </div>
@@ -151,9 +151,9 @@ Utforska praktiska användningsexempel som utformats för användare med en grun
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2" target="_blank" rel="referrer" title="Skapa varianter med Adobe GenStudio">Skapa varianter med Adobe GenStudion</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2" target="_blank" rel="referrer" title="Skapa varianter med Adobe GenStudio">Skapa varianter med Adobe GenStudio</a>
                     </p>
-                    <p class="is-size-6">Utforska hur AEM Assets och Adobe Express kan användas för att skapa varianter av mediefiler som kan användas i e-post- och metaannonser som används för att marknadsföra samma marknadsföringsupplevelse.</p>
+                    <p class="is-size-6">Utforska användningsexemplet med AEM Assets och Adobe Express för att skapa varianter av mediefiler som kan användas i e-post- och metaannonser som används för att marknadsföra samma marknadsföringsupplevelse.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
