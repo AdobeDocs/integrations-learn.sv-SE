@@ -34,7 +34,7 @@ AEM och Workfront effektiviserar innehållsproduktionen och möjliggör smidig i
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html" target="_blank" rel="noreferrer">Workfront och AEM Assets Essentials</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=sv-SE" target="_blank" rel="noreferrer">Workfront och AEM Assets Essentials</a></td>
             <td>Inbyggd koppling</td>
             <td>
               <ul style="margin-top: 0;">
@@ -50,7 +50,7 @@ AEM och Workfront effektiviserar innehållsproduktionen och möjliggör smidig i
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" target="_blank" rel="noreferrer">Workfront och AEM Assets</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html?lang=sv-SE" target="_blank" rel="noreferrer">Workfront och AEM Assets</a></td>
             <td>Förbättrad anslutning</td>
             <td>
                 <ul style="margin-top: 0;">

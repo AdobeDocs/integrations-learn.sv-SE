@@ -47,7 +47,7 @@ De viktigaste fördelarna med att integrera Adobe [!DNL Campaign] och AEM Experi
             </td>
         </tr>      
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-adobe-campaign/aem-forms-with-campaign-standard-getting-started-tutorial.html" target="_blank" rel="noreferrer">[!DNL Campaign] Standard med AEM Forms</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-adobe-campaign/aem-forms-with-campaign-standard-getting-started-tutorial.html?lang=sv-SE" target="_blank" rel="noreferrer">[!DNL Campaign] Standard med AEM Forms</a></td>
             <td>Åtkomsttoken för Adobe IMS</td>
             <td>
                 <ul style="margin-top: 0;">

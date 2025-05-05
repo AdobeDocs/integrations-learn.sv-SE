@@ -57,7 +57,7 @@ Den här integreringen sammanför värdefulla data och målgruppsinsikter. Det g
         </tr>        
         <tr>
             <td>
-                <a href="https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html" target="_blank" rel="noreferrer">Audience Manager skickar tillbaka data till [!DNL Analytics]</a>
+                <a href="https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=sv-SE" target="_blank" rel="noreferrer">Audience Manager skickar tillbaka data till [!DNL Analytics]</a>
             </td>
             <td>Adobe [!DNL Analytics]-taggtillägg eller AppMeasurement.js med vidarebefordran på serversidan aktiverad</td>
             <td>

@@ -34,7 +34,7 @@ Att integrera Adobe Journey Optimizer &amp; Experience Manager Assets Essentials
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" target="_blank" rel="noreferrer">Journey Optimizer och AEM Assets Essentials</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=sv-SE" target="_blank" rel="noreferrer">Journey Optimizer och AEM Assets Essentials</a></td>
             <td>Resurslösningar är inbäddade i Journey Optimizer</td>
             <td>
                 <ul style="margin-top: 0;">

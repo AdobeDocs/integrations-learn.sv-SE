@@ -23,31 +23,31 @@ ht-degree: 1%
 # Integrera Adobe [!DNL Analytics] och kundresan [!DNL Analytics] med Experience [!DNL Platform] Edge-självstudien
 
 <ol>
-    <li><a href="https://experienceleague.adobe.com/?lang=en#dashboard/learning" _target="_blank" rel="noopener noreferrer">Skapa scheman</a> för data som ska importeras.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html" _target="_blank" rel="noopener noreferrer">Skapa datauppsättningar</a> för data som ska importeras.</a></li>
-    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html?lang=en" _target="_blank" rel="noopener noreferrer">Konfigurera rätt identiteter och identitetsnamnutrymmen i schemat</a> för att vara säker på att inkapslade data kan sammanfogas med en enhetlig profil.</li> 
-    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/bring-data-into-the-real-time-customer-profile.html" _target="_blank" rel="noopener noreferrer">Aktivera scheman och datauppsättningar för profilen </a>.</li>
+    <li><a href="https://experienceleague.adobe.com/sv?lang=en#dashboard/learning" _target="_blank" rel="noopener noreferrer">Skapa scheman</a> för data som ska importeras.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html?lang=sv-SE" _target="_blank" rel="noopener noreferrer">Skapa datauppsättningar</a> för data som ska importeras.</a></li>
+    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html?lang=sv-SE" _target="_blank" rel="noopener noreferrer">Konfigurera rätt identiteter och identitetsnamnutrymmen i schemat</a> för att vara säker på att inkapslade data kan sammanfogas med en enhetlig profil.</li> 
+    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/bring-data-into-the-real-time-customer-profile.html?lang=sv-SE" _target="_blank" rel="noopener noreferrer">Aktivera scheman och datauppsättningar för profilen </a>.</li>
     <li>Infoga data i upplevelsen [!DNL Platform] med någon av följande metoder:</li>
         <ul>
             <li>Upplev [!DNL Platform] Web SDK:</li>
                 <ul>
-                    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html" _target="_blank" rel="noopener noreferrer">Självstudiekurs</a></li>
-                    <li><a href="https://experienceleague.adobe.com/docs/analytics/implementation/aep-edge/web-sdk/overview.html" _target="_blank" rel="noopener noreferrer">Checklista</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=sv-SE" _target="_blank" rel="noopener noreferrer">Självstudiekurs</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/analytics/implementation/aep-edge/web-sdk/overview.html?lang=sv-SE" _target="_blank" rel="noopener noreferrer">Checklista</a></li>
                 </ul>
             <li>Upplev [!DNL Platform] Mobile SDK:</li>
                 <ul>
-                    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/create-mobile-properties.html" _target="_blank" rel="noopener noreferrer">Självstudiekurs</a></li>
-                    <li><a href="https://experienceleague.adobe.com/docs/analytics/implementation/aep-edge/mobile-sdk/overview.html" _target="_blank" rel="noopener noreferrer">Checklista</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/create-mobile-properties.html?lang=sv-SE" _target="_blank" rel="noopener noreferrer">Självstudiekurs</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/analytics/implementation/aep-edge/mobile-sdk/overview.html?lang=sv-SE" _target="_blank" rel="noopener noreferrer">Checklista</a></li>
                 </ul></li>
             <li>Edge Network Server-API:</li>
                 <ul>
                     <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html" _target="_blank" rel="noopener noreferrer">Självstudiekurs</a></li>
                 </ul>
        </ul>
-    <li><i>(Valfritt)</i>. Om du använder flera datauppsättningar sammanfogar du person-ID:n till <a href="https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/combined-dataset.html" _target="_blank" rel="noopener noreferrer">genererar en kombinerad datauppsättning</a>. Hoppa över det här steget om du använder en enskild [!DNL Analytics]-datauppsättning, eller om det finns en gemensam identifierare för alla datauppsättningar som du tänker använda i kundresan [!DNL Analytics].</li>
-    <li><a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections/connecting-customer-journey-analytics-to-data-sources-in-platform.html" _target="_blank" rel="noopener noreferrer">Skapa en anslutning</a> i kundresan [!DNL Analytics].</li>
-    <li><a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/basic-configuration-for-data-views.html" _target="_blank" rel="noopener noreferrer">Skapa en datavy</a>, <a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/configuring-component-settings-in-data-views.html" _target="_blank" rel="noopener noreferrer">konfigurera komponentinställningarna</a> och <a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/formatting-metrics-in-data-views.html" _target="_blank" rel="noopener noreferrer">formatera mätvärden</a> i kundresan [!DNL Analytics].
-    <li><a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/workspace-projects/build-a-new-project.html" _target="_blank" rel="noopener noreferrer">Skapa ett projekt i kundresan [!DNL Analytics].</a></li>
+    <li><i>(Valfritt)</i>. Om du använder flera datauppsättningar sammanfogar du person-ID:n till <a href="https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/combined-dataset.html?lang=sv-SE" _target="_blank" rel="noopener noreferrer">genererar en kombinerad datauppsättning</a>. Hoppa över det här steget om du använder en enskild [!DNL Analytics]-datauppsättning, eller om det finns en gemensam identifierare för alla datauppsättningar som du tänker använda i kundresan [!DNL Analytics].</li>
+    <li><a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections/connecting-customer-journey-analytics-to-data-sources-in-platform.html?lang=sv-SE" _target="_blank" rel="noopener noreferrer">Skapa en anslutning</a> i kundresan [!DNL Analytics].</li>
+    <li><a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/basic-configuration-for-data-views.html?lang=sv-SE" _target="_blank" rel="noopener noreferrer">Skapa en datavy</a>, <a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/configuring-component-settings-in-data-views.html?lang=sv-SE" _target="_blank" rel="noopener noreferrer">konfigurera komponentinställningarna</a> och <a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/formatting-metrics-in-data-views.html?lang=sv-SE" _target="_blank" rel="noopener noreferrer">formatera mätvärden</a> i kundresan [!DNL Analytics].
+    <li><a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/workspace-projects/build-a-new-project.html?lang=sv-SE" _target="_blank" rel="noopener noreferrer">Skapa ett projekt i kundresan [!DNL Analytics].</a></li>
 </ol>
 
 >[!NOTE]

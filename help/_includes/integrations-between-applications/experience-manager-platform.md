@@ -32,7 +32,7 @@ Integrering av AEM och Experience [!DNL Platform] ger flera fördelar, bland ann
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/web-sdk.html" target="_blank" rel="noreferrer">Experience Manager och upplevelse [!DNL Platform]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/web-sdk.html?lang=sv-SE" target="_blank" rel="noreferrer">Experience Manager och upplevelse [!DNL Platform]</a></td>
             <td>Upplev [!DNL Platform] Web SDK</td>
             <td>
                 <ul style="margin-top: 0;">

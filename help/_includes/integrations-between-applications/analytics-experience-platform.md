@@ -34,7 +34,7 @@ Genom att integrera dessa plattformar kan företag utnyttja data för exceptione
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html" target="_blank" rel="noreferrer">[!DNL Analytics] och upplevelse [!DNL Platform]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html?lang=sv-SE" target="_blank" rel="noreferrer">[!DNL Analytics] och upplevelse [!DNL Platform]</a></td>
             <td>Experience [!DNL Platform]-källkoppling</td>
             <td>
                 <ul style="margin-top: 0;">

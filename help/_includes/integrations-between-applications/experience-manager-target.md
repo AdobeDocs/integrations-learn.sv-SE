@@ -35,7 +35,7 @@ Några fördelar med att använda Adobe Experience Manager och Adobe [!DNL Targe
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html" target="_blank" rel="noreferrer">AEM Headless as a Cloud Service och [!DNL Target]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html?lang=sv-SE" target="_blank" rel="noreferrer">AEM Headless as a Cloud Service och [!DNL Target]</a></td>
             <td>Upplev tillägget [!DNL Platform] Web SDK-taggar eller alloy.js</td>
             <td>
               <ul style="margin-top: 0;">
@@ -52,7 +52,7 @@ Några fördelar med att använda Adobe Experience Manager och Adobe [!DNL Targe
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/overview.html" target="_blank" rel="noreferrer">AEM Sites och [!DNL Target]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/overview.html?lang=sv-SE" target="_blank" rel="noreferrer">AEM Sites och [!DNL Target]</a></td>
             <td>Inbyggd koppling</td>
             <td>
                 <ul style="margin-top: 0;">

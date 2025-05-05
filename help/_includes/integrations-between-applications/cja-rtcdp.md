@@ -36,7 +36,7 @@ Integrationen av Adobe kundresa [!DNL Analytics] och Adobe Real-Time CDP ger fö
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/audiences/audience-publishing-for-cja.html" target="_blank" rel="noreferrer">Kundresa [!DNL Analytics] och Real-Time CDP</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/audiences/audience-publishing-for-cja.html?lang=sv-SE" target="_blank" rel="noreferrer">Kundresa [!DNL Analytics] och Real-Time CDP</a></td>
             <td>Adobe Experience [!DNL Platform]</td>
             <td>
                 <ul style="margin-top: 0;">

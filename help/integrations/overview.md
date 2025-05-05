@@ -18,10 +18,10 @@ De här självstudiekurserna för integrering med Experience Cloud beskriver nå
 <table>
 <tr>
    <td style="vertical-align: middle; text-align: center;">
-      <a  href="./integrations-between-applications/overview.md"><img alt="Per produkt" src="https://cdn.experienceleague.adobe.com/thumb/by-product.png"/></a>
+      <a  href="./integrations-between-applications/overview.md"><img alt="Per produkt" src="https://cdn.experienceleague.adobe.com/thumb/by-product.png?lang=sv-SE"/></a>
    </td>
    <td>
-      <a  href="./solution-categories/overview.md"><img alt="Per företagslösning" src="https://cdn.experienceleague.adobe.com/thumb/by-solution.png"/></a>
+      <a  href="./solution-categories/overview.md"><img alt="Per företagslösning" src="https://cdn.experienceleague.adobe.com/thumb/by-solution.png?lang=sv-SE"/></a>
    </td>  
 </tr>
 <tr>

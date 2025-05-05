@@ -32,7 +32,7 @@ De viktigaste fördelarna med att integrera Adobe Workfront och Adobe Creative C
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html" target="_blank" rel="noreferrer">Creative Cloud och Workfront</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html?lang=sv-SE" target="_blank" rel="noreferrer">Creative Cloud och Workfront</a></td>
             <td>Inbyggd koppling</td>
             <td>
                 <ul style="margin-top: 0;">

@@ -33,7 +33,7 @@ Integreringen av Adobe [!DNL Analytics] med Adobe [!DNL Campaign] möjliggör sm
     <tbody>
         <tr>
             <td rowspan="2">[!DNL Campaign] Standard med [!DNL Analytics]</td>
-            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html" target="_blank" rel="noreferrer">Externt [!DNL Campaign]-konto länkat till Adobe [!DNL Analytics] och administratörskonfigurationen i [!DNL Analytics]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html?lang=sv-SE" target="_blank" rel="noreferrer">Externt [!DNL Campaign]-konto länkat till Adobe [!DNL Analytics] och administratörskonfigurationen i [!DNL Analytics]</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>När du vill spåra om e-postleveranserna från [!DNL Campaign] har slutförts direkt i Adobe [!DNL Analytics].</li>

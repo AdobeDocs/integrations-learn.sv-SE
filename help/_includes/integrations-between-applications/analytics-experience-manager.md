@@ -35,7 +35,7 @@ Integrering av Adobe [!DNL Analytics] och Adobe Experience Manager ger flera fö
     <tbody>
         <tr>
             <td rowspan="2">[!DNL Analytics] med AEM Sites</a></td>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/analytics-using-web-sdk.html" target="_blank" rel="noreferrer">Upplev tillägget [!DNL Platform] Web SDK-taggar eller alloy.js</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/analytics-using-web-sdk.html?lang=sv-SE" target="_blank" rel="noreferrer">Upplev tillägget [!DNL Platform] Web SDK-taggar eller alloy.js</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>När du vill rapportera AEM webbanalysdata i Adobe [!DNL Analytics] och positionera dig själv för att integrera med andra Experience Cloud-program i framtiden.</li>
@@ -50,7 +50,7 @@ Integrering av Adobe [!DNL Analytics] och Adobe Experience Manager ger flera fö
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/collect-data-analytics.html" target="_blank" rel="noreferrer">Adobe [!DNL Analytics]-taggtillägg eller AppMeasurement.js</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/collect-data-analytics.html?lang=sv-SE" target="_blank" rel="noreferrer">Adobe [!DNL Analytics]-taggtillägg eller AppMeasurement.js</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>När du vill rapportera AEM webbanalysdata i Adobe [!DNL Analytics] och inte planerar att använda data i andra Experience Cloud-program</li>
@@ -67,7 +67,7 @@ Integrering av Adobe [!DNL Analytics] och Adobe Experience Manager ger flera fö
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-analytics/introduction.html" target="_blank" rel="noreferrer">[!DNL Analytics] och AEM Forms som Cloud Service</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-analytics/introduction.html?lang=sv-SE" target="_blank" rel="noreferrer">[!DNL Analytics] och AEM Forms som Cloud Service</a></td>
             <td>Upplev tillägget [!DNL Platform] Web SDK-taggar</td>
             <td>
               <ul style="margin-top: 0;">

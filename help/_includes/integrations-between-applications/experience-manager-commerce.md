@@ -34,7 +34,7 @@ Att integrera AEM och Adobe [!DNL Commerce] med [!DNL Commerce] Integration Fram
     <tbody>
         <tr>
             <td rowspan="3">AEM Sites som Cloud Service och [!DNL Commerce]</td>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html" target="_blank" rel="noreferrer">Skapa en enskild butik med [!DNL Commerce] Integration Framework (CIF)</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html?lang=sv-SE" target="_blank" rel="noreferrer">Skapa en enskild butik med [!DNL Commerce] Integration Framework (CIF)</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>När du vill ha en enda AEM.</li>
@@ -50,7 +50,7 @@ Att integrera AEM och Adobe [!DNL Commerce] med [!DNL Commerce] Integration Fram
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multi-store-setup.html" target="_blank" rel="noreferrer">Skapa flera butiker med [!DNL Commerce] Integration Framework (CIF)</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multi-store-setup.html?lang=sv-SE" target="_blank" rel="noreferrer">Skapa flera butiker med [!DNL Commerce] Integration Framework (CIF)</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>När du vill ha flera butiker i AEM.</li>
@@ -64,7 +64,7 @@ Att integrera AEM och Adobe [!DNL Commerce] med [!DNL Commerce] Integration Fram
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multiple-commerce-systems-setup.html" target="_blank" rel="noreferrer">Flera handelssystem som använder [!DNL Commerce] Integration Framework (CIF)</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multiple-commerce-systems-setup.html?lang=sv-SE" target="_blank" rel="noreferrer">Flera handelssystem som använder [!DNL Commerce] Integration Framework (CIF)</a></td>
             <td>
                 <ul style="margin-top: 0;"><li>När ni vill ha flera regioner eller flera varumärken som butiker med hjälp av många affärssystem.</li></ul>
             </td>
