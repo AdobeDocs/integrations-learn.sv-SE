@@ -39,8 +39,10 @@ Du kan göra detta genom att logga in i administratörsavsnittet i Adobe [!DNL C
 
 1. Konfigurera modulen med dina autentiseringsuppgifter inifrån Adobe [!DNL Commerce].
    * Först konfigurationerna för [!DNL Commerce] Services Connector, vilket visas nedan.
+
      Inställningar för ![[!DNL Commerce] Services Connector ](./assets/analytics-commerce/commerce-services-connector-setup.png)
    * Därefter Experience [!DNL Platform]-anslutningsinställningarna, enligt nedan.
+
      ![Upplev [!DNL Platform] koppling](./assets/analytics-commerce/experience-platform-connector.png)
 
 Mer information om varje fas och steg i introduktionsprocessen finns i instruktionerna i [Experience [!DNL Platform] connector overview](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html){target="_blank"}. Självstudiekursen för Experience [!DNL Platform] Connector täcker alla avsnitt i detalj och besvarar eventuella frågor du har. Använd den här självstudiekursen för resten av snabbinstallationsstegen.
