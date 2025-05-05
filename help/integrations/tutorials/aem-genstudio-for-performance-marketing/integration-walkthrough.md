@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Lär dig grunderna i hur du använder integreringen mellan AEM Assets as a Cloud Service och GenStudio for Performance Marketing, hur du överför resurser till AEM Assets, hur du godkänner mediefiler i AEM Assets och hur du använder godkända mediefiler i GenStudio for Performance Marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439264/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439281/?learn=on&enablevpops&captions=swe)

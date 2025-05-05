@@ -31,22 +31,22 @@ Få en översikt och demo av integreringen.
 
 Lär dig hur du konfigurerar Adobe [!DNL Target]-målet i kunddata i realtid [!DNL Platform].
 
->[!VIDEO](https://video.tv.adobe.com/v/3418799/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449797/?learn=on&captions=swe)
 
 ## Aktivera segment och profilattribut för Adobe [!DNL Target]
 
 Lär dig hur du aktiverar segment och profilattribut från kunddata för realtid i Adobe [!DNL Platform] till Adobe [!DNL Target].
 
->[!VIDEO](https://video.tv.adobe.com/v/3419036/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447359/?learn=on&captions=swe)
 
 ## Använd CDP-segment i realtid i Adobe [!DNL Target]
 
 Lär dig hur du använder kunddatasegmenten [!DNL Platform] i realtid i Adobe [!DNL Target].
 
->[!VIDEO](https://video.tv.adobe.com/v/3419149/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446831/?learn=on&captions=swe)
 
 ## Använd CDP-profilattribut i realtid i Adobe [!DNL Target]
 
 Lär dig hur du använder profilattribut för Adobe Real-Time Customer Data [!DNL Platform] i Adobe [!DNL Target].
 
->[!VIDEO](https://video.tv.adobe.com/v/3419318/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451897/?learn=on&captions=swe)

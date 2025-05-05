@@ -32,16 +32,16 @@ I följande video förklaras vad du lär dig.
 
 Lär dig hur du konfigurerar integreringen mellan Experience Manager och [!DNL Campaign], inklusive viktiga inställningar att söka efter och potentiella gotchas att undvika.
 
->[!VIDEO](https://video.tv.adobe.com/v/340121?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445900?quality=12&learn=on&captions=swe)
 
 ## Godkänn och publicera en Experience Manager-sida på [!DNL Campaign]
 
 Lär dig hur du skapar ett nyhetsbrev i Experience Manager och hur du godkänner och publicerar det på [!DNL Campaign].
 
->[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447575?quality=12&learn=on&captions=swe)
 
 ## Synkronisera och skicka e-postleveranser via Experience Manager i [!DNL Campaign]
 
 Lär dig hur du testar och skickar ett nyhetsbrev som har skapats i Experience Manager i [!DNL Campaign].
 
->[!VIDEO](https://video.tv.adobe.com/v/340151?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444752?quality=12&learn=on&captions=swe)

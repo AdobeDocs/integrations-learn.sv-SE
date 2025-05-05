@@ -24,7 +24,7 @@ ht-degree: 0%
 
 # Adobe GenStudio med AEM Assets och GenStudio for Performance Marketing
 
->[!VIDEO](https://video.tv.adobe.com/v/3439263/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439270/?learn=on&captions=swe)
 
 Utnyttja möjligheterna i Adobe GenStudio och AEM Assets as a Cloud Service för att förändra era arbetsflöden för marknadsföring. Med smidig integrering får ni tillgång till varumärkesgodkänt material från en central lagringsplats för att skapa enhetligt, högklassigt innehåll för alla kampanjer och kanaler. Upptäck hur dessa verktyg effektiviserar innehållsförsörjningskedjan och ökar er marknadsföringseffekt.
 
@@ -82,7 +82,7 @@ Upptäck två omfattande genomgångar som utformats för användare med grundlä
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough" title="Kom igång med GenStudio for Performance Marketing och AEM Assets" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439264/?format=jpeg&nocache=1739560516243" alt="Kom igång med GenStudio for Performance Marketing och AEM Assets"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439281/?format=jpeg&nocache=1739560516243&captions=swe" alt="Kom igång med GenStudio for Performance Marketing och AEM Assets"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -120,7 +120,7 @@ Utforska praktiska användningsexempel som utformats för användare med en grun
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" title="Lätt granskning och godkännande i Adobe GenStudio" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439265/?format=jpeg&nocache=1739560516635" alt="Lätt granskning och godkännande i Adobe GenStudio"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439292/?format=jpeg&nocache=1739560516635&captions=swe" alt="Lätt granskning och godkännande i Adobe GenStudio"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -143,7 +143,7 @@ Utforska praktiska användningsexempel som utformats för användare med en grun
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2" title="Skapa varianter med Adobe GenStudio" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439266/?format=jpeg&nocache=1739560516573" alt="Skapa varianter med Adobe GenStudio"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439303/?format=jpeg&nocache=1739560516573&captions=swe" alt="Skapa varianter med Adobe GenStudio"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

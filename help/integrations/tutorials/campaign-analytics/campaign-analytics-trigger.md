@@ -32,22 +32,22 @@ Lär dig hur du använder datainsamling för Adobe Experience [!DNL Platform] oc
 >
 > Launch är nu taggfunktionen i Adobe Experience [!DNL Platform]. Den finns under **Adobe Experience [!DNL Platform]-datainsamlingar**.
 
->[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454020?quality=12&learn=on&captions=swe)
 
 ## Skapa en utlösare i Experience Cloud
 
 Lär dig hur du konfigurerar utlösare i Experience Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/332624?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446142?quality=12&learn=on&captions=swe)
 
 ## Skapa en utlösare i [!DNL Campaign] Standard
 
 Lär dig hur du skapar en utlösarhändelse i [!DNL Campaign] Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/332625?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446413?quality=12&learn=on&captions=swe)
 
 ## Konfigurera transaktionsmeddelanden med realtidshändelsedata
 
 Lär dig hur du konfigurerar transaktionsmeddelanden med händelsedata i realtid som kommer från utlösare.
 
->[!VIDEO](https://video.tv.adobe.com/v/332602?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450206?quality=12&learn=on&captions=swe)

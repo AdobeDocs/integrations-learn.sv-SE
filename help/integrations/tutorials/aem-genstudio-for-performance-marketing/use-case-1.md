@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Lär dig hur du överför, granskar och godkänner mediefiler i AEM Assets as a Cloud Service för att effektivisera arbetsflödet. När de godkänts integreras dessa resurser smidigt i GenStudio for Performance Marketing och säkerställer enkel tillgång till varumärkesgodkänt material för era kampanjer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439265/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439292/?learn=on&enablevpops&captions=swe)
