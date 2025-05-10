@@ -41,7 +41,7 @@ ht-degree: 1%
                 </ul></li>
             <li>Edge Network Server-API:</li>
                 <ul>
-                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html" _target="_blank" rel="noopener noreferrer">Självstudiekurs</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html?lang=sv-SE" _target="_blank" rel="noopener noreferrer">Självstudiekurs</a></li>
                 </ul>
        </ul>
     <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=sv-SE" _target="_blank" rel="noopener noreferrer">Skapa segment i upplevelsen [!DNL Platform].</a> Systemet avgör automatiskt om segmentet utvärderas som batch (dataanslutning) eller direktuppspelning (Edge-nätverk).</li>

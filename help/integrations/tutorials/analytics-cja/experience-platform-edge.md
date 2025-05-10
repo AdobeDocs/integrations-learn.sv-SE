@@ -41,7 +41,7 @@ ht-degree: 1%
                 </ul></li>
             <li>Edge Network Server-API:</li>
                 <ul>
-                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html" _target="_blank" rel="noopener noreferrer">Självstudiekurs</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html?lang=sv-SE" _target="_blank" rel="noopener noreferrer">Självstudiekurs</a></li>
                 </ul>
        </ul>
     <li><i>(Valfritt)</i>. Om du använder flera datauppsättningar sammanfogar du person-ID:n till <a href="https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/combined-dataset.html?lang=sv-SE" _target="_blank" rel="noopener noreferrer">genererar en kombinerad datauppsättning</a>. Hoppa över det här steget om du använder en enskild [!DNL Analytics]-datauppsättning, eller om det finns en gemensam identifierare för alla datauppsättningar som du tänker använda i kundresan [!DNL Analytics].</li>
