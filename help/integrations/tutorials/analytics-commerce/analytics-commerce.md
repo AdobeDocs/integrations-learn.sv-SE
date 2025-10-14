@@ -40,7 +40,7 @@ Du kan göra detta genom att logga in i administratörsavsnittet i Adobe [!DNL C
 1. Konfigurera modulen med dina autentiseringsuppgifter inifrån Adobe [!DNL Commerce].
    * Först konfigurationerna för [!DNL Commerce] Services Connector, vilket visas nedan.
 
-     Inställningar för ![[!DNL Commerce] Services Connector ](./assets/analytics-commerce/commerce-services-connector-setup.png)
+     Inställningar för ![[!DNL Commerce] Services Connector &#x200B;](./assets/analytics-commerce/commerce-services-connector-setup.png)
    * Därefter Experience [!DNL Platform]-anslutningsinställningarna, enligt nedan.
 
      ![Upplev [!DNL Platform] koppling](./assets/analytics-commerce/experience-platform-connector.png)
@@ -83,7 +83,7 @@ Mer information om varje fas och steg i introduktionsprocessen finns i instrukti
 
 1. Slutligen, för att kunna visa dina [!DNL Commerce]-data måste du navigera till Analysis Workspace i Adobe [!DNL Analytics], skapa ett projekt, välja rapportsviten och lägga till frihandstabeller och andra visualiseringar för att rapportera om och analysera dina [!DNL Commerce]-data. I följande bild visas ett exempel på en tabell som du kan skapa i Analysis Workspace.
 
-   ![[!DNL Analytics] Skärmbild av vissa e-handelsdata ](./assets/analytics-commerce/analytics-screenshot-commerce-items.png)
+   ![[!DNL Analytics] Skärmbild av vissa e-handelsdata &#x200B;](./assets/analytics-commerce/analytics-screenshot-commerce-items.png)
 
    Här finns ytterligare resurser som du kan använda för att arbeta i Analysis Workspace:
 
@@ -92,4 +92,4 @@ Mer information om varje fas och steg i introduktionsprocessen finns i instrukti
    * [Använda tabeller, visualiseringar och paneler i Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-tables-visualizations-and-panels.html?lang=sv-SE)
    * [Användningsexempel för visualisering](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html?lang=sv-SE)
 
-   Dessutom finns det kostnadsfria kurser i Experience League. Se [!DNL Analytics] kurser tillgängliga [HÄR](https://experienceleague.adobe.com/sv?lang=en&amp;Solution=Analytics#courses).
+   Dessutom finns det kostnadsfria kurser i Experience League. Se [!DNL Analytics] kurser tillgängliga [HÄR](https://experienceleague.adobe.com/sv?lang=en&Solution=Analytics#courses).
