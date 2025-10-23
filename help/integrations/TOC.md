@@ -3,10 +3,10 @@ user-guide-title: Självstudiekurser om integreringar i Experience Cloud
 breadcrumb-title: Experience Cloud-integreringar
 user-guide-description: Lär dig om integreringar.
 mini-toc-levels: 1
-source-git-commit: 2e76baa106c833668b7d966e4cfdbfaef8aabbd2
+source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 15%
+source-wordcount: '142'
+ht-degree: 21%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 15%
    + [Kundresor](./solution-categories/customer-journeys.md)
    + [Datainsikter och aktivering](./solution-categories/data-insights.md)
    + [Personalization i stor skala](./solution-categories/personalization.md)
-+ Produktintegrationer{#integrations-between-applications}
++ Produktintegreringar{#integrations-between-applications}
    + [Översikt](./integrations-between-applications/overview.md)
    + [!DNL Acrobat Sign]{#acrobat-sign}
       + [[!DNL Experience Manager]](./integrations-between-applications/acrobat-sign/acrobat-sign-experience-manager.md)
@@ -56,7 +56,7 @@ ht-degree: 15%
       + [[!DNL Analytics]](./integrations-between-applications/experience-manager/experience-manager-analytics.md)
       + [[!DNL Campaign]](./integrations-between-applications/experience-manager/experience-manager-campaign.md)
       + [[!DNL Commerce]](./integrations-between-applications/experience-manager/experience-manager-commerce.md)
-      + [GenStudio for Performance Marketing](./integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md)
+      + [GenStudio för prestationsbaserad marknadsföring](./integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md)
       + [[!DNL Journey Optimizer]](./integrations-between-applications/experience-manager/experience-manager-journey-optimizer.md)
       + [[!DNL Marketo Engage]](./integrations-between-applications/experience-manager/experience-manager-marketo.md)
       + [[!DNL Target]](./integrations-between-applications/experience-manager/experience-manager-target.md)
@@ -81,7 +81,7 @@ ht-degree: 15%
    + Workfront{#experience-manager}
       + [[!DNL Creative Cloud]](./integrations-between-applications/workfront/workfront-creative-cloud.md)
       + [[!DNL Experience Manager]](./integrations-between-applications/workfront/workfront-experience-manager.md)
-+ Självstudie{#tutorials}
++ Självstudiekurs{#tutorials}
    + [!DNL Analytics] och [!DNL Commerce]{#analytics-commerce}
       + [[!DNL Analytics] och [!DNL Commerce]](./tutorials/analytics-commerce/analytics-commerce.md)
    + [!DNL Analytics] och CJA{#analytics-cja}
@@ -107,5 +107,12 @@ ht-degree: 15%
       + [Konfigurera](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
       + [Integreringsgenomgång](./tutorials/aem-genstudio-for-performance-marketing/integration-walkthrough.md)
       + Användningsfall{#use-cases}
-         + [Granskning och godkännande i Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
+         + [Granska och godkänn i Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
          + [Skapa varianter med Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
+   + Experience Manager och Target{#experience-manager-target}
+      + [Översikt](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview)
+      + [Konfigurera](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
+      + Användningsfall{#use-cases}
+         + [Experimentation (A/B-testning)](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
+         + [Beteendeanpassning](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
+         + [Kända Personalization](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)

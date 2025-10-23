@@ -2,9 +2,9 @@
 title: Applikationsintegrationer för personalisering i stor skala
 description: Gör personaliserade upplevelser till en del av varje ögonblick.
 exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
 workflow-type: tm+mt
-source-wordcount: '516'
+source-wordcount: '533'
 ht-degree: 1%
 
 ---
@@ -132,10 +132,10 @@ I dagens mycket konkurrenskraftiga och digitalt drivna landskap har kunderna kom
             kända enhets- och beteendeegenskaper
           </li>
           <li>
-            Utnyttja datanätverket från tredje part i Audience Manager för ytterligare
+            Utnyttja Audience Manager datanät från tredje part för ytterligare
             förfina och utöka era målgrupper för målinriktning
           </li>
-          <li>Dela segment i Audience Manager till RTCDP</li>
+          <li>Dela Audience Manager-segment till RTCDP</li>
         </ul>
       </td>
       <td>
@@ -177,7 +177,7 @@ I dagens mycket konkurrenskraftiga och digitalt drivna landskap har kunderna kom
     <tr>
       <td rowspan="2"><strong>Personalisera webbupplevelser</strong></td>
       <td>
-        Skräddarsy upplevelsen av single page-applikationer (SPA) genom att effektivt
+        Skräddarsy upplevelsen av single-page-applikationer (SPA) genom att effektivt
         använder AEM Headless tillsammans med Adobe [!DNL Target].
       </td>
       <td>
@@ -205,9 +205,9 @@ I dagens mycket konkurrenskraftiga och digitalt drivna landskap har kunderna kom
       <td>
         <ul style="margin-top: 0;">
           <li>AEM webbplatspersonalisering.</li>
-          <li>Anpassa webbinnehåll.</li>
-          <li>Optimera användarupplevelserna.</li>
           <li>A/B-testvariationer.</li>
+          <li>Beteendeanpassning baserat på användarbeteenden.</li>
+          <li>Känd användarpersonalisering genom att sammanfoga användardata från flera system, vilket ger en helhetsbild av kunden.</li>
         </ul>
       </td>
       <td>
