@@ -110,9 +110,9 @@ ht-degree: 21%
          + [Granska och godkänn i Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
          + [Skapa varianter med Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
    + Experience Manager och Target{#experience-manager-target}
-      + [Översikt](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview)
-      + [Konfigurera](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
+      + [Översikt](https://experienceleague.adobe.com/sv/docs/experience-manager-learn/cloud-service/personalization/overview)
+      + [Konfigurera](https://experienceleague.adobe.com/sv/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
       + Användningsfall{#use-cases}
-         + [Experimentation (A/B-testning)](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
-         + [Beteendeanpassning](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
-         + [Kända Personalization](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
+         + [Experimentation (A/B-testning)](https://experienceleague.adobe.com/sv/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
+         + [Beteendeanpassning](https://experienceleague.adobe.com/sv/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
+         + [Kända Personalization](https://experienceleague.adobe.com/sv/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
