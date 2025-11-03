@@ -3,10 +3,10 @@ user-guide-title: Självstudiekurser om integreringar i Experience Cloud
 breadcrumb-title: Experience Cloud-integreringar
 user-guide-description: Lär dig om integreringar.
 mini-toc-levels: 1
-source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
+source-git-commit: a5f6fdd10569618e495750e1bcd4cf604cbf142c
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 21%
+source-wordcount: '145'
+ht-degree: 20%
 
 ---
 
@@ -110,9 +110,10 @@ ht-degree: 21%
          + [Granska och godkänn i Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
          + [Skapa varianter med Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
    + Experience Manager och Target{#experience-manager-target}
-      + [Översikt](https://experienceleague.adobe.com/sv/docs/experience-manager-learn/cloud-service/personalization/overview)
-      + [Konfigurera](https://experienceleague.adobe.com/sv/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
+      + [Översikt](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview)
+      + [Live-demo](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/live-demo)
+      + [Konfigurera](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
       + Användningsfall{#use-cases}
-         + [Experimentation (A/B-testning)](https://experienceleague.adobe.com/sv/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
-         + [Beteendeanpassning](https://experienceleague.adobe.com/sv/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
-         + [Kända Personalization](https://experienceleague.adobe.com/sv/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
+         + [Experimentation (A/B-testning)](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
+         + [Beteendeanpassning](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
+         + [Kända Personalization](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
