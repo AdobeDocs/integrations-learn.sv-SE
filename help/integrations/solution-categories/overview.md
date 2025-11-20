@@ -18,21 +18,21 @@ Tänk på att det finns många sätt att konfigurera Adobe-programmen, beroende 
 <table>
 <tr>
     <td>
-      <a  href="./b2b.md"><img alt="B2b-marknadsföring" src="https://cdn.experienceleague.adobe.com/thumb/b2b.png"/></a>
+      <a  href="./b2b.md"><img alt="B2b-marknadsföring" src="https://cdn.experienceleague.adobe.com/thumb/b2b.png?lang=sv-SE"/></a>
       <div><strong><a href="./b2b.md">B2B-marknadsföring</a></strong></div>
       <p>
         Automatisering och partnerskap
       </p>
     </td>
    <td>
-      <a  href="./commerce.md"><img alt="handel" src="https://cdn.experienceleague.adobe.com/thumb/commerce.png"/></a>
+      <a  href="./commerce.md"><img alt="handel" src="https://cdn.experienceleague.adobe.com/thumb/commerce.png?lang=sv-SE"/></a>
       <div><strong><a href="./commerce.md">Commerce</a></strong></div>
       <p>
         Digital e-handel inom B2B och B2C
       </p>
    </td>    
    <td>
-      <a  href="./content-management.md"><img alt="Innehållshantering" src="https://cdn.experienceleague.adobe.com/thumb/content-management.png"/></a>
+      <a  href="./content-management.md"><img alt="Innehållshantering" src="https://cdn.experienceleague.adobe.com/thumb/content-management.png?lang=sv-SE"/></a>
       <div><strong><a href="./content-management.md">Innehållshantering</a></strong></div>
       <p>
         Innehålls- och resurshantering
@@ -41,21 +41,21 @@ Tänk på att det finns många sätt att konfigurera Adobe-programmen, beroende 
 </tr>
 <tr>
    <td>
-      <a  href="./content-supply-chain.md"><img alt="Innehållsleveranskedja" src="https://cdn.experienceleague.adobe.com/thumb/content-supply-chain.png"/></a>
+      <a  href="./content-supply-chain.md"><img alt="Innehållsleveranskedja" src="https://cdn.experienceleague.adobe.com/thumb/content-supply-chain.png?lang=sv-SE"/></a>
       <div><strong><a href="./content-supply-chain.md">Innehållsförsörjningskedja</a></strong></div>
       <p>
         Skapa och leverera material snabbare
       </p> 
     </td>
    <td>
-      <a  href="./customer-journeys.md"><img alt="Customer Journeys" src="https://cdn.experienceleague.adobe.com/thumb/customer-journeys.png"/></a>
+      <a  href="./customer-journeys.md"><img alt="Customer Journeys" src="https://cdn.experienceleague.adobe.com/thumb/customer-journeys.png?lang=sv-SE"/></a>
       <div><strong><a href="./customer-journeys.md">Kundresor</a></strong></div>
       <p>
         Flerkanalsmarknadsföring och -leverans
       </p> 
     </td>
    <td>
-      <a  href="./data-insights.md"><img alt="Datainsikter och aktivering" src="https://cdn.experienceleague.adobe.com/thumb/data-insights.png"/></a>
+      <a  href="./data-insights.md"><img alt="Datainsikter och aktivering" src="https://cdn.experienceleague.adobe.com/thumb/data-insights.png?lang=sv-SE"/></a>
       <div><strong><a href="./data-insights.md"> Datainsikter och aktivering</a></strong></div>
       <p>
         [!DNL Analytics] och målgruppshantering
@@ -64,7 +64,7 @@ Tänk på att det finns många sätt att konfigurera Adobe-programmen, beroende 
 </tr>
 <tr>
    <td>
-      <a  href="./personalization.md"><img alt="Personalization i stor skala" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png"/></a>
+      <a  href="./personalization.md"><img alt="Personalization i stor skala" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png?lang=sv-SE"/></a>
       <div><strong><a href="./personalization.md">Personalization som scale</a></strong></div>
       <p>
         Göra varje anslutning personlig
