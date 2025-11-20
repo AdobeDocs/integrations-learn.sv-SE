@@ -9,9 +9,9 @@ ht-degree: 10%
 
 ---
 
-# Integrationskonfigurationer för Experience Cloud - ordnade efter program
+# Integreringskonfigurationer för Experience Cloud - ordnade efter program
 
-I det här avsnittet får alla som är insatta i Adobe-program möjlighet att skapa affärsvärden genom att integrera flera Adobe-program. Vi har organiserat många vanliga integrationskonfigurationer för företagsapplikationer från Adobe och mappat dem till verkliga användningsområden.
+Det här avsnittet hjälper alla som har Adobe-program som är vana vid att skapa affärsvärden genom att integrera flera Adobe-program. Vi har organiserat många vanliga integrationskonfigurationer för Adobe företagsapplikationer och mappat dem till verkliga användningsområden.
 
 Det finns många sätt att konfigurera Adobe-program, beroende på vilken miljö du använder. I det här avsnittet får du hjälp att distribuera i befintligt skick eller ändra dem för att tillgodose behoven i din miljö.
 
